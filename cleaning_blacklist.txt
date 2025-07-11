@@ -104,3 +104,5 @@ sanomat kuvat pixabay
 helsingin sanomat
 stewie
 bob
+an
+jay

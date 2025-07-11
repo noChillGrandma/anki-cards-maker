@@ -1,7 +1,13 @@
 a)
 b)
-🤔
-...
+c)
+d)
+f)
+g)
+h)
+i)
+j)
+k)
 ?
 💁🏼‍♀️
 👍🏻
@@ -9,10 +15,24 @@ b)
 😂
 😅
 😖
+😡
+😎
+😍
+🤔
+🍃
+🍂
+🍁
+☂
+💙
+💚
+💜
+💛
 ”
 ”
 ,
 .
+...
+..
 :
 ;
 <
@@ -62,3 +82,4 @@ Pete
 Putin
 Vladimir
 sanomat kuvat pixabay
+helsingin sanomat

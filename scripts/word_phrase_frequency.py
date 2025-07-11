@@ -37,10 +37,10 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
     all_4_grams = get_ngrams(text, 4, blacklist)
     
     # Filter by minimum frequency and get top 10
-    most_common_1 = [(phrase, count) for phrase, count in all_1_grams.most_common() if count >= min_frequency][:10]
-    most_common_2 = [(phrase, count) for phrase, count in all_2_grams.most_common() if count >= min_frequency][:10]
-    most_common_3 = [(phrase, count) for phrase, count in all_3_grams.most_common() if count >= min_frequency][:10]
-    most_common_4 = [(phrase, count) for phrase, count in all_4_grams.most_common() if count >= min_frequency][:10]
+    most_common_1 = [(phrase, count) for phrase, count in all_1_grams.most_common() if count >= min_frequency][:100]
+    most_common_2 = [(phrase, count) for phrase, count in all_2_grams.most_common() if count >= min_frequency][:100]
+    most_common_3 = [(phrase, count) for phrase, count in all_3_grams.most_common() if count >= min_frequency][:100]
+    most_common_4 = [(phrase, count) for phrase, count in all_4_grams.most_common() if count >= min_frequency][:100]
 
     # Write results to file
     output_file = "top_finnish_words.txt"
@@ -66,5 +66,5 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
 # Usage
 file_path = "dataset.txt"  # Replace with your file path
 blacklist_file_path = "blacklist.txt"  # Replace with your blacklist file path if available
-min_frequency_threshold = 4  # Minimum frequency threshold (words/phrases with less than this count will be ignored)
+min_frequency_threshold = 3  # Minimum frequency threshold (words/phrases with less than this count will be ignored)
 analyze_text(file_path, blacklist_file_path, min_frequency_threshold)

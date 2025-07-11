@@ -1,28 +1,200 @@
 ----- Single Words -----
-ja: 147
-ei: 71
-että: 66
-ole: 36
-tai: 36
-jos: 33
-mutta: 30
-se: 29
-niin: 28
-olla: 25
+ja: 273
+että: 135
+ei: 123
+mutta: 72
+jos: 59
+kun: 57
+niin: 57
+se: 54
+ole: 53
+tai: 50
+oli: 41
+olla: 36
+voi: 36
+töitä: 35
+hän: 29
+ovat: 28
+en: 28
+sitten: 27
+ihan: 26
+nyt: 26
+ollut: 25
+vaan: 24
+tämä: 23
+myös: 23
+sekä: 22
+sen: 22
+vaikka: 22
+olisi: 22
+kuin: 21
+joka: 21
+jo: 21
+siitä: 20
+olen: 20
+töihin: 20
+kyllä: 20
+vielä: 19
+koska: 18
+sitä: 18
+mukaan: 17
+kanssa: 17
+vain: 17
+mitään: 17
+eikä: 16
+toki: 16
+mitä: 15
+jälkeen: 14
+sillä: 14
+mikä: 13
+paljon: 13
+tässä: 13
+niitä: 12
+paikan: 12
+siinä: 11
+joskus: 11
+eri: 11
+tätä: 11
+tulee: 11
+ennen: 11
+hyvä: 11
+itse: 11
+joku: 11
+viime: 10
+miten: 10
+jossa: 10
+kertoo: 10
+valvira: 10
+valviran: 10
+kuitenkin: 10
+savolainen: 10
+mikään: 10
+no: 10
+kaikki: 10
+toimii: 10
+venäjän: 10
+eivät: 9
+emilia: 9
+saada: 9
+tapahtuu: 9
+vähän: 9
+osa: 9
+toimi: 9
+tuo: 9
+tuli: 9
+toinen: 9
+näin: 9
+oma: 9
+edes: 9
+aikana: 9
+itsensä: 9
+siihen: 8
+sukupolven: 8
+nuoret: 8
+paikalle: 8
+tehdä: 8
+kuva: 8
+saa: 8
+taas: 8
+hänen: 8
+moni: 8
+lääkäri: 8
 
 ----- 2-Word Phrases -----
-ei ole: 16
-voi olla: 8
+ei ole: 22
+voi olla: 9
 sukupuoli identiteetin: 8
 z sukupolven: 7
+se että: 7
+on paljon: 6
 valviran mukaan: 6
-hän ei: 5
+ei ollut: 6
+hän ei: 6
+se ei: 5
+on että: 5
+ja sen: 5
+on se: 5
+paikan päälle: 5
 viime viikolla: 4
-se että: 4
-on paljon: 4
-se ei: 4
+numeroon mutta: 4
+on ollut: 4
+se on: 4
+yksityisessä terveydenhuollossa: 4
+sen jälkeen: 4
+miikka varila: 4
+se oli: 4
+on jo: 4
+identiteetin häiriöiden: 4
+tällä hetkellä: 4
+tämä on: 4
+ole mitään: 4
+meillä on: 4
+matalan kynnyksen: 4
+on niin: 4
+cv n: 4
+töihin ja: 4
+paikan päällä: 4
+siihen että: 3
+siinä on: 3
+on käytännössä: 3
+jenna mari: 3
+hän on: 3
+niina tojkander: 3
+niin että: 3
+e tutkimuksen: 3
+tutkimuksen kehityspäällikkö: 3
+ja sitten: 3
+sitä että: 3
+syy on: 3
+on tärkeä: 3
+mutta ei: 3
+translain ja: 3
+ja asetuksen: 3
+asetuksen vastaisesti: 3
+kuva miikka: 3
+ilman että: 3
+en ole: 3
+ei myöskään: 3
+ja se: 3
+langan aihe: 3
+on mahdollista: 3
+ja firmat: 3
+oma aloitteinen: 3
+ole mikään: 3
+töitä niin: 3
+on vain: 3
+sitä kautta: 3
+ja en: 3
+kun ei: 3
+ei toimi: 3
+voi käydä: 3
+niin mikä: 3
+tappiot ovat: 3
+on ja: 3
+aikana ja: 3
+vuosia sitten: 3
+ja jos: 3
+siitä että: 3
+ei olisi: 3
+ennen kun: 3
+jos et: 3
+ei oo: 3
+tai sitten: 3
+mikään ei: 3
+kun on: 3
+että on: 3
+ihan vaan: 3
+sisään ja: 3
+tätä tapahtuu: 3
+tiedän että: 3
+seuraavana päivänä: 3
 
 ----- 3-Word Phrases -----
 sukupuoli identiteetin häiriöiden: 4
+e tutkimuksen kehityspäällikkö: 3
+translain ja asetuksen: 3
+ja asetuksen vastaisesti: 3
+kuva miikka varila: 3
 
 ----- 4-Word Phrases -----
+translain ja asetuksen vastaisesti: 3

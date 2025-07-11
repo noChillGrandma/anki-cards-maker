@@ -20,6 +20,9 @@ def clean_text(text, cleaning_blacklist=None):
     # Remove HTML tags
     text = re.sub(r'<[^>]+>', ' ', text)
     
+    # Remove URLs (http/https links)
+    text = re.sub(r'https?://\S+', ' ', text)
+    
     # Remove blacklisted words and phrases if provided
     if cleaning_blacklist:
         for item in cleaning_blacklist:

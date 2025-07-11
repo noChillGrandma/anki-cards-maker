@@ -7,6 +7,10 @@ the
 lle
 sanomat kuvat pixabay
 helsingin sanomat
+cm
+km
+ns
+blogin
 a
 b
 c

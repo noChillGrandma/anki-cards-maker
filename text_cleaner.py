@@ -11,9 +11,9 @@ def clean_text(text):
     return text.lower().strip()
 
 def main():
-    parser = argparse.ArgumentParser(description='Clean a .txt file for n-gram analysis')
-    parser.add_argument('input', help='Path to input .txt file')
-    parser.add_argument('output', help='Path to output cleaned .txt file')
+    parser = argparse.ArgumentParser(description='Clean text from input file and append to dataset')
+    parser.add_argument('--input', default='text_input.txt', help='Path to input .txt file (default: text_input.txt)')
+    parser.add_argument('--output', default='dataset.txt', help='Path to dataset file to append to (default: dataset.txt)')
     args = parser.parse_args()
 
     # Read the input file as UTF-8
@@ -23,9 +23,19 @@ def main():
     # Clean the text
     cleaned = clean_text(data)
 
-    # Write the cleaned text to output
-    with open(args.output, 'w', encoding='utf-8') as outfile:
-        outfile.write(cleaned)
+    # Append the cleaned text to the dataset file
+    with open(args.output, 'a', encoding='utf-8') as outfile:
+        # Add a space before appending to separate from existing content
+        if cleaned:
+            outfile.write(' ' + cleaned)
+    
+    # Clear the input file after successful processing
+    with open(args.input, 'w', encoding='utf-8') as infile:
+        infile.write('')
+    
+    print(f"Cleaned text from '{args.input}' has been appended to '{args.output}'")
+    print(f"Added {len(cleaned)} characters to the dataset.")
+    print(f"'{args.input}' has been cleared and is ready for new content.")
 
 if __name__ == '__main__':
     main()

@@ -1,12 +1,26 @@
 import requests
 from bs4 import BeautifulSoup
+import os
 
 # List of Blogspot domains to scrape
 blogs = [
-    "vimma50.blogspot.com",
-    # "example2.blogspot.com",
+    "mumminmatkat.blogspot.com",
     # add more blog domains here
 ]
+
+SCRAPED_BLOGS_FILE = "scraped_blogs.txt"
+
+def load_scraped_blogs():
+    """Load the list of already scraped blogs from file"""
+    if os.path.exists(SCRAPED_BLOGS_FILE):
+        with open(SCRAPED_BLOGS_FILE, 'r', encoding='utf-8') as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def save_scraped_blog(blog_domain):
+    """Add a blog domain to the scraped blogs list"""
+    with open(SCRAPED_BLOGS_FILE, 'a', encoding='utf-8') as f:
+        f.write(blog_domain + '\n')
 
 def fetch_posts(blog_domain):
     """
@@ -52,32 +66,46 @@ def extract_text(html_content):
 
 def main():
     all_posts = []
+    scraped_blogs = load_scraped_blogs()
     
     for blog in blogs:
+        if blog in scraped_blogs:
+            print(f"⏭️  Skipping {blog} (already scraped)")
+            continue
+            
         print(f"Processing {blog}...")
         try:
             entries = fetch_posts(blog)
             print(f"Found {len(entries)} posts from {blog}")
             
+            blog_posts = []
             for entry in entries:
                 # JSON feed uses 'content' or 'summary' for post body
                 raw_html = entry.get("content", {}).get("$t") or entry.get("summary", {}).get("$t", "")
                 if raw_html:
                     text = extract_text(raw_html)
                     if text.strip():  # Only add non-empty posts
-                        all_posts.append(text)
+                        blog_posts.append(text)
+            
+            if blog_posts:
+                all_posts.extend(blog_posts)
+                save_scraped_blog(blog)
+                print(f"✅ Successfully scraped {len(blog_posts)} posts from {blog}")
+            else:
+                print(f"⚠️  No posts extracted from {blog}")
+                
         except Exception as e:
-            print(f"Error processing {blog}: {e}")
+            print(f"❌ Error processing {blog}: {e}")
     
-    # Save all posts to file
+    # Save all posts to text_input.txt
     if all_posts:
-        with open("scraped_blogposts.txt", "w", encoding="utf-8") as f:
+        with open("text_input.txt", "w", encoding="utf-8") as f:
             for post in all_posts:
                 f.write(post + "\n\n")
         
-        print(f"✅ Successfully saved {len(all_posts)} posts to scraped_blogposts.txt")
+        print(f"✅ Successfully saved {len(all_posts)} posts to text_input.txt")
     else:
-        print("❌ No posts were extracted")
+        print("❌ No new posts were extracted")
 
 if __name__ == "__main__":
     main()

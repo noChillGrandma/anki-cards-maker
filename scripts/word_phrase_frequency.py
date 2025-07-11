@@ -53,8 +53,8 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
         for position, (phrase, count) in enumerate(top_ngrams, 1):
             f.write(f"{position:04d}: {phrase}\n")
     
-    print(f"✅ Results have been written to '{output_file}'")
-    print(f"✅ Total entries: {len(top_ngrams)}")
+    print(f"[OK] Results have been written to '{output_file}'")
+    print(f"[OK] Total entries: {len(top_ngrams)}")
 
 # Usage
 file_path = "dataset.txt"  # Replace with your file path

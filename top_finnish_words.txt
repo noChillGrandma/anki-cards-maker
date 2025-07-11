@@ -3,739 +3,927 @@
 0002: että
 0003: ei
 0004: jos
-0005: mutta
-0006: kun
-0007: niin
-0008: tai
-0009: ole
-0010: se
-0011: oli
-0012: olla
-0013: voi
-0014: en
-0015: töitä
+0005: kun
+0006: niin
+0007: mutta
+0008: se
+0009: tai
+0010: oli
+0011: ole
+0012: voi
+0013: töihin
+0014: olla
+0015: en
 0016: ihan
-0017: ovat
-0018: hän
-0019: sitten
-0020: myös
-0021: kuin
-0022: joka
-0023: sen
-0024: ei ole
-0025: siitä
-0026: nyt
-0027: vaikka
-0028: tämä
-0029: ollut
-0030: olisi
-0031: kyllä
-0032: vaan
-0033: koska
-0034: sekä
-0035: olen
-0036: jo
-0037: vielä
-0038: sitä
-0039: eikä
-0040: töihin
-0041: vain
-0042: kanssa
-0043: mitä
-0044: mitään
+0017: sitten
+0018: sen
+0019: vaan
+0020: töitä
+0021: ovat
+0022: vaikka
+0023: kuin
+0024: myös
+0025: joka
+0026: siitä
+0027: ollut
+0028: nyt
+0029: hän
+0030: tämä
+0031: ei ole
+0032: vielä
+0033: olisi
+0034: kyllä
+0035: koska
+0036: sitä
+0037: olen
+0038: jo
+0039: mitään
+0040: sekä
+0041: mitä
+0042: eikä
+0043: kanssa
+0044: vain
 0045: tässä
-0046: mukaan
-0047: itse
-0048: sillä
-0049: toki
-0050: siinä
-0051: mikä
-0052: paljon
-0053: jossa
-0054: aina
+0046: itse
+0047: tulee
+0048: aina
+0049: siinä
+0050: saa
+0051: tuli
+0052: jossa
+0053: kipeänä
+0054: tätä
 0055: jälkeen
-0056: niitä
-0057: pitää
-0058: tätä
-0059: tulee
-0060: siihen
-0061: miten
-0062: joskus
-0063: tuo
-0064: näin
-0065: ennen
-0066: hyvä
-0067: joku
-0068: paikan
-0069: jotain
-0070: eri
-0071: suomessa
-0072: oma
-0073: mikään
-0074: no
-0075: kaikki
-0076: viime
-0077: tipit
-0078: eivät
-0079: eli
-0080: kertoo
-0081: enemmän
-0082: hänen
-0083: vähän
-0084: osa
-0085: valvira
-0086: valviran
-0087: tuli
-0088: kuitenkin
-0089: savolainen
-0090: päälle
-0091: edes
-0092: aikana
-0093: pitäisi
-0094: toimii
-0095: varmaan
-0096: venäjän
-0097: tippiä
-0098: voi olla
-0099: tehdä
-0100: saa
-0101: missä
-0102: emilia
-0103: saada
-0104: taas
-0105: tapahtuu
-0106: toimi
-0107: toinen
-0108: heti
-0109: koko
-0110: itsensä
-0111: palvelu
-0112: tippaus
-0113: käytännössä
-0114: noin
-0115: sukupolven
-0116: nuoret
-0117: päästä
-0118: paikalle
-0119: kuva
-0120: tekemään
-0121: heidän
-0122: miksi
-0123: moni
-0124: lääkäri
-0125: sukupuoli
-0126: identiteetin
-0127: vuoden
-0128: ilman
-0129: siis
-0130: jotka
-0131: kuinka
-0132: tämän
-0133: sinne
-0134: cv
-0135: minä
-0136: sain
-0137: tästä
-0138: yleensä
-0139: se että
-0140: sukupuoli identiteetin
-0141: soittaa
-0142: maksaa
-0143: alle
-0144: hyvää
-0145: työtä
-0146: ettei
-0147: juuri
-0148: he
-0149: edelleen
-0150: käy
-0151: vuosia
-0152: asioita
-0153: tällä
-0154: halua
-0155: ne
-0156: yli
-0157: oikeasti
-0158: alkoi
-0159: joten
-0160: hyvin
-0161: kiinni
-0162: varmasti
-0163: silti
-0164: tuossa
-0165: aika
-0166: ainakin
-0167: et
-0168: takia
-0169: tarjoilija
-0170: z sukupolven
-0171: ei ollut
-0172: ensin
-0173: numeroon
-0174: olevan
-0175: samaan
-0176: jenkeissä
-0177: tippauskulttuuri
-0178: jopa
-0179: työpaikoilla
-0180: näkyy
-0181: tarvitse
-0182: niina
-0183: e
-0184: samalla
-0185: esimerkiksi
-0186: nuori
-0187: vasta
-0188: onko
-0189: meille
-0190: vastaisesti
-0191: olin
-0192: pääsee
-0193: johon
-0194: ajan
-0195: aikaan
-0196: tilanne
-0197: enää
-0198: näyttää
-0199: koskaan
-0200: hetkellä
-0201: näitä
-0202: täysin
-0203: kunnat
-0204: voisi
-0205: pari
-0206: työt
-0207: nykyään
-0208: jonka
-0209: ihminen
-0210: oo
-0211: kukaan
-0212: sisään
-0213: pomo
-0214: päivänä
-0215: on paljon
-0216: on että
-0217: valviran mukaan
-0218: ja sen
-0219: hän ei
-0220: eläkkeelle
-0221: johtaa
-0222: asiakkaan
-0223: työn
-0224: vanhemmat
-0225: nuorten
-0226: välillä
-0227: voivat
-0228: saanut
-0229: mielestä
-0230: meidän
-0231: pitkään
-0232: läpi
-0233: uuden
-0234: lääkärin
-0235: terveydenhuollossa
-0236: sai
-0237: kyse
-0238: hoitoa
-0239: enkä
-0240: tehtiin
-0241: erittäin
-0242: myöskään
-0243: ihmisiä
-0244: rajoituksen
-0245: todella
-0246: kyllähän
-0247: heillä
-0248: miesten
-0249: tekee
-0250: laittaa
-0251: kuka
-0252: millä
-0253: palkalla
-0254: kautta
-0255: olet
-0256: juttu
-0257: päällä
-0258: pääsin
-0259: usein
-0260: siltä
-0261: käydä
-0262: kävi
-0263: yritys
-0264: tuota
-0265: tähän
-0266: sama
-0267: jossain
-0268: jää
-0269: just
-0270: menee
-0271: tein
-0272: palkan
-0273: sattuu
-0274: firmoissa
-0275: rekry
-0276: varsinkin
-0277: lähinnä
-0278: n
-0279: siellä
-0280: kaveri
-0281: tiedän
-0282: esim
-0283: minkä
-0284: tippi
-0285: ravintolassa
-0286: siihen että
-0287: se ei
-0288: se on
-0289: on se
-0290: ja jos
-0291: paikan päälle
-0292: eläkkeellä
-0293: viikolla
-0294: tekemättä
-0295: yritti
-0296: jotenkin
-0297: tuntuu
-0298: älkää
-0299: perusteella
-0300: tietää
-0301: kehittyä
-0302: työnantajan
-0303: minua
-0304: asiat
-0305: nuorempana
-0306: tutkimuksen
-0307: heikkilä
-0308: saavat
+0056: sillä
+0057: mukaan
+0058: joku
+0059: mikä
+0060: paljon
+0061: ennen
+0062: toki
+0063: koko
+0064: et
+0065: kotiin
+0066: joskus
+0067: niitä
+0068: no
+0069: edes
+0070: kaikki
+0071: siihen
+0072: vähän
+0073: pitää
+0074: ettei
+0075: tuo
+0076: kuitenkin
+0077: näin
+0078: hyvä
+0079: miten
+0080: jotain
+0081: saada
+0082: taas
+0083: suomessa
+0084: ilman
+0085: kuinka
+0086: oikeasti
+0087: aikana
+0088: töissä
+0089: pitäisi
+0090: paikan
+0091: voi olla
+0092: eivät
+0093: käytännössä
+0094: eri
+0095: missä
+0096: vasta
+0097: olin
+0098: oma
+0099: meillä
+0100: ne
+0101: mikään
+0102: päälle
+0103: heti
+0104: varmaan
+0105: takia
+0106: sain
+0107: pois
+0108: sairaana
+0109: se että
+0110: viime
+0111: tipit
+0112: eli
+0113: päästä
+0114: tehdä
+0115: kertoo
+0116: enemmän
+0117: miksi
+0118: hänen
+0119: osa
+0120: valvira
+0121: valviran
+0122: toinen
+0123: savolainen
+0124: jotka
+0125: minä
+0126: pari
+0127: joten
+0128: tästä
+0129: hyvin
+0130: toimii
+0131: yleensä
+0132: venäjän
+0133: ihmiset
+0134: ku
+0135: tippiä
+0136: se on
+0137: noin
+0138: paikalle
+0139: emilia
+0140: tapahtuu
+0141: moni
+0142: lääkäri
+0143: onko
+0144: toimi
+0145: ajan
+0146: siis
+0147: tämän
+0148: sinne
+0149: varmasti
+0150: päällä
+0151: silti
+0152: aika
+0153: oo
+0154: itsensä
+0155: tulla
+0156: palkan
+0157: pomo
+0158: joo
+0159: saikulla
+0160: jäädä
+0161: kun ei
+0162: palvelu
+0163: tippaus
+0164: sukupolven
+0165: nuoret
+0166: kuva
+0167: tekemään
+0168: heidän
+0169: samalla
+0170: he
+0171: sukupuoli
+0172: identiteetin
+0173: käy
+0174: sai
+0175: johon
+0176: vuoden
+0177: tällä
+0178: kyllähän
+0179: cv
+0180: voisi
+0181: töistä
+0182: työt
+0183: nykyään
+0184: olet
+0185: kiinni
+0186: jonka
+0187: usein
+0188: päivän
+0189: ainakin
+0190: jossain
+0191: jää
+0192: kukaan
+0193: päivänä
+0194: alkoi
+0195: sit
+0196: saikulle
+0197: kipeenä
+0198: on että
+0199: sukupuoli identiteetin
+0200: ei ollut
+0201: ensin
+0202: soittaa
+0203: samaan
+0204: jopa
+0205: maksaa
+0206: alle
+0207: työn
+0208: työpaikoilla
+0209: näkyy
+0210: vanhemmat
+0211: tarvitse
+0212: hyvää
+0213: työtä
+0214: läpi
+0215: juuri
+0216: edelleen
+0217: meille
+0218: aikaan
+0219: tilanne
+0220: enää
+0221: näyttää
+0222: vuosia
+0223: asioita
+0224: koskaan
+0225: hetkellä
+0226: halua
+0227: täysin
+0228: yli
+0229: laittaa
+0230: ollaan
+0231: yksi
+0232: siltä
+0233: kävi
+0234: tähän
+0235: sama
+0236: tuossa
+0237: ihminen
+0238: just
+0239: menee
+0240: varsinkin
+0241: siellä
+0242: kotona
+0243: yhden
+0244: kerran
+0245: viikon
+0246: tunnin
+0247: tarjoilija
+0248: z sukupolven
+0249: ja sen
+0250: ei saa
+0251: tämä on
+0252: ja jos
+0253: kun on
+0254: töihin ja
+0255: numeroon
+0256: tuntuu
+0257: olevan
+0258: jenkeissä
+0259: tippauskulttuuri
+0260: niina
+0261: saanut
+0262: e
+0263: mielestä
+0264: pitkään
+0265: antaa
+0266: esimerkiksi
+0267: nuori
+0268: työ
+0269: vastaisesti
+0270: pääsee
+0271: ymmärrä
+0272: näitä
+0273: tekee
+0274: kunnat
+0275: kuka
+0276: kautta
+0277: kertaa
+0278: aivan
+0279: juttu
+0280: silloin
+0281: sisään
+0282: onneksi
+0283: sattuu
+0284: firmassa
+0285: n
+0286: eipä
+0287: kaveri
+0288: omalla
+0289: päivää
+0290: maksetaan
+0291: olo
+0292: on paljon
+0293: se ei
+0294: valviran mukaan
+0295: se oli
+0296: ilman että
+0297: hän ei
+0298: on se
+0299: kipeänä töihin
+0300: eläkkeelle
+0301: älkää
+0302: johtaa
+0303: tietää
+0304: asiakkaan
+0305: työpaikalle
+0306: nuorten
+0307: välillä
+0308: voivat
 0309: sanoo
 0310: vuotta
-0311: uusia
+0311: meidän
 0312: tavalla
-0313: vaikea
-0314: joita
-0315: syy
-0316: antaa
+0313: joita
+0314: syy
+0315: sille
+0316: uuden
 0317: ihmisten
-0318: monilla
-0319: työ
-0320: sinulla
-0321: video
-0322: estä
-0323: yksityisessä
-0324: translain
-0325: vuoksi
-0326: ilmeisesti
-0327: miikka
-0328: varila
-0329: yhtäkkiä
-0330: aiemmin
-0331: potilaiden
-0332: potilasturvallisuuden
-0333: asiaa
-0334: rajoitus
-0335: kipinä
-0336: jota
-0337: kohdalla
-0338: häiriöiden
-0339: työntekoa
-0340: hänellä
-0341: olleet
-0342: näihin
-0343: pysty
-0344: riitä
-0345: osalta
-0346: tilanteessa
-0347: potentiaalia
-0348: meillä
-0349: mahdollista
-0350: miehille
-0351: firmat
-0352: matalan
-0353: kynnyksen
-0354: meni
-0355: tahansa
-0356: jolloin
-0357: vastaan
-0358: sieltä
-0359: ruoka
-0360: viikko
-0361: kpl
-0362: joko
-0363: silloin
-0364: töissä
-0365: sovellus
-0366: ulos
-0367: helvetin
-0368: ollaan
-0369: yksi
-0370: päätin
-0371: mä
-0372: missään
-0373: laittoi
-0374: ukrainan
-0375: trendi
-0376: tappiot
-0377: ukraina
-0378: omaan
-0379: tankkia
-0380: tarkoita
-0381: ihmisen
-0382: kannalta
-0383: joutuu
-0384: monesti
-0385: ihmiset
-0386: parempi
-0387: tyytyväinen
-0388: homma
-0389: onneksi
-0390: tullut
-0391: pääsi
-0392: porukkaa
-0393: v
-0394: menemällä
-0395: haluaa
-0396: duunia
-0397: helpompi
-0398: pienemmissä
-0399: tuolla
-0400: yhden
-0401: ku
-0402: pois
-0403: tosin
-0404: perään
-0405: osaa
-0406: saman
-0407: olis
-0408: kävelin
-0409: onnistuu
-0410: maksetaan
-0411: tunnin
-0412: a
-0413: tippaa
-0414: ravintola
-0415: viime viikolla
-0416: numeroon mutta
-0417: että tipit
-0418: siinä on
-0419: tippaus on
-0420: on käytännössä
-0421: pitää olla
-0422: hän on
-0423: on ollut
-0424: yksityisessä terveydenhuollossa
-0425: sen jälkeen
-0426: miikka varila
-0427: se oli
-0428: ilman että
-0429: on jo
-0430: identiteetin häiriöiden
-0431: tällä hetkellä
-0432: tämä on
-0433: ja se
-0434: ole mitään
-0435: meillä on
-0436: matalan kynnyksen
-0437: on niin
-0438: siitä että
-0439: cv n
-0440: töihin ja
-0441: tiedän että
-0442: paikan päällä
-0443: sukupuoli identiteetin häiriöiden
-0444: oleva
-0445: isäni
-0446: työpaikkailmoituksia
-0447: osannut
-0448: kk
-0449: pidempää
-0450: taimitarha
-0451: onnistui
-0452: väärin
-0453: piti
-0454: tippauskulttuuria
-0455: suomeen
-0456: palkkoja
-0457: pakollista
-0458: jokainen
-0459: käynyt
-0460: joissain
-0461: minimipalkan
-0462: tarjoilijan
-0463: saisi
-0464: hinnan
-0465: ruoan
-0466: työelämässä
-0467: työntekijä
-0468: kohtaa
-0469: sukupolvi
-0470: sukupolvet
-0471: jenna
-0472: mari
-0473: työskentelee
-0474: hänelle
-0475: tekeminen
-0476: tehdään
-0477: tojkanderin
-0478: päijät
-0479: paikkaan
-0480: voin
-0481: mennä
-0482: uutta
-0483: työntekijöiden
-0484: aiheuttaa
-0485: sairaanhoitaja
-0486: tojkander
-0487: tietoa
-0488: sukupolvien
-0489: positiivinen
-0490: kehityspäällikkö
-0491: hyväksy
-0492: jotkut
-0493: sille
-0494: yritysten
-0495: kokevat
-0496: saattaa
-0497: määrä
-0498: milloin
-0499: kaksi
-0500: pöydän
-0501: tärkeä
-0502: asia
-0503: pyörii
-0504: lääkärit
-0505: varten
-0506: kenenkään
-0507: turvallisuutta
-0508: älä
-0509: ammatinharjoittamisoikeutta
-0510: hormoneja
-0511: asetuksen
-0512: joista
-0513: t
-0514: reseptejä
-0515: hoito
-0516: paikka
-0517: minulle
-0518: ainakaan
-0519: ilmoitus
-0520: päätöksen
-0521: jolla
-0522: hoitaa
-0523: säännösten
-0524: ammattioikeuden
-0525: vakavasti
-0526: toimintaa
-0527: transpoliklinikat
-0528: kertoi
-0529: kaikille
-0530: auttaa
-0531: toisin
-0532: savolaisen
-0533: transihmisiä
-0534: ymmärtänyt
-0535: olisivat
-0536: ymmärrä
-0537: muuten
-0538: niiden
-0539: lisää
-0540: eritoten
-0541: muutenkin
-0542: luvulla
-0543: langan
-0544: aihe
-0545: miehiä
-0546: yhtään
-0547: mies
-0548: menkää
-0549: vuosien
-0550: työpaikkoja
-0551: työpaikat
-0552: syystä
-0553: aloitteinen
-0554: tarjoavat
-0555: itselleen
-0556: tekemällä
-0557: naisia
-0558: useat
-0559: sanoen
-0560: töistä
-0561: luokkaa
-0562: uskon
-0563: euroa
-0564: yhteiskunnassa
-0565: kysymys
-0566: mahdollisuuksia
-0567: parantaa
-0568: luoda
-0569: alkaa
-0570: mieltä
-0571: asiasta
-0572: mennessä
-0573: mulla
-0574: omaa
-0575: helposti
-0576: jatkuvasti
-0577: matka
-0578: ollessa
-0579: kertaa
-0580: they
-0581: them
-0582: aivan
-0583: oliko
-0584: viesti
-0585: ongelma
-0586: sanoin
-0587: näen
-0588: mielessä
-0589: nopeasti
-0590: vanhan
-0591: asiakas
-0592: tuon
-0593: joissa
-0594: laskun
-0595: päivän
-0596: tietenkään
-0597: venäjällä
-0598: hetki
-0599: kuun
-0600: loppuun
-0601: liian
-0602: aikaista
-0603: asti
-0604: yhtä
-0605: lopussa
-0606: pitänyt
-0607: lukuja
-0608: toiseen
-0609: katsotaan
-0610: mikäli
-0611: kaistalle
-0612: hiljaa
-0613: minulla
-0614: oikeesti
-0615: asiakkaat
-0616: ois
-0617: itseään
-0618: työhön
-0619: sinua
-0620: itsesi
-0621: harvoin
-0622: täydellinen
-0623: tarpeeksi
-0624: erilaisia
-0625: liikaa
-0626: asiassa
-0627: itseäni
-0628: takana
-0629: tulla
-0630: kokemusta
-0631: alalla
-0632: päässyt
-0633: varaa
-0634: suhteen
-0635: kädenpuristus
-0636: kotiin
-0637: firmassa
-0638: menin
-0639: muiden
-0640: kysymään
-0641: ikinä
-0642: paikassa
-0643: ala
-0644: osaamista
-0645: hommiin
-0646: paskaa
-0647: kaiken
-0648: eipä
-0649: riippuu
-0650: hakee
-0651: mistä
-0652: jostain
-0653: puhelimella
-0654: kävelemällä
-0655: firman
-0656: käymään
-0657: palkkaa
-0658: tekemistä
-0659: seuraavana
-0660: viikon
-0661: pientä
-0662: joo
-0663: hommia
-0664: vai
-0665: työntekijälle
-0666: tapauksessa
-0667: painaa
-0668: teki
-0669: nimenomaan
-0670: erikseen
-0671: siskoni
-0672: kysyi
-0673: poikkeus
-0674: niillä
-0675: samana
-0676: kysyy
-0677: tipin
-0678: kerralla
-0679: tippaan
-0680: ravintolaan
-0681: automaattikassat
-0682: koska ei
-0683: palvelu on
-0684: joka on
-0685: tippauskulttuuri on
-0686: jenna mari
-0687: ei tarvitse
-0688: niina tojkander
-0689: niin että
-0690: e tutkimuksen
-0691: tutkimuksen kehityspäällikkö
-0692: ja sitten
-0693: sitä että
-0694: syy on
-0695: on tärkeä
-0696: mutta ei
-0697: translain ja
-0698: ja asetuksen
-0699: asetuksen vastaisesti
-0700: kuva miikka
-0701: samaan aikaan
-0702: en ole
-0703: ei myöskään
-0704: langan aihe
-0705: on mahdollista
-0706: ja firmat
-0707: oma aloitteinen
-0708: ole mikään
-0709: töitä niin
-0710: on vain
-0711: sitä kautta
-0712: ja en
-0713: ja kun
-0714: kun ei
-0715: ei toimi
-0716: voi käydä
-0717: niin mikä
-0718: tappiot ovat
-0719: on ja
-0720: aikana ja
-0721: on nyt
-0722: vuosia sitten
-0723: ei olisi
-0724: ennen kun
-0725: jos et
-0726: ei oo
-0727: tai sitten
-0728: mikään ei
-0729: ei riitä
-0730: kun on
-0731: että on
-0732: ihan vaan
-0733: sisään ja
-0734: tätä tapahtuu
-0735: seuraavana päivänä
-0736: e tutkimuksen kehityspäällikkö
-0737: translain ja asetuksen
-0738: ja asetuksen vastaisesti
-0739: kuva miikka varila
-0740: translain ja asetuksen vastaisesti
+0318: lääkärin
+0319: terveydenhuollossa
+0320: vuoksi
+0321: kyse
+0322: hoitoa
+0323: enkä
+0324: tehtiin
+0325: kohdalla
+0326: erittäin
+0327: myöskään
+0328: ihmisiä
+0329: rajoituksen
+0330: todella
+0331: pysty
+0332: riitä
+0333: muuten
+0334: heillä
+0335: miesten
+0336: mahdollista
+0337: meni
+0338: sieltä
+0339: millä
+0340: alkaa
+0341: kunnon
+0342: palkalla
+0343: mieltä
+0344: jatkuvasti
+0345: helvetin
+0346: saan
+0347: pääsin
+0348: käydä
+0349: yritys
+0350: missään
+0351: tuota
+0352: yhtä
+0353: ihmisen
+0354: tää
+0355: parempi
+0356: tyytyväinen
+0357: takana
+0358: tein
+0359: alalla
+0360: varaa
+0361: firmoissa
+0362: rekry
+0363: lähinnä
+0364: mene
+0365: v
+0366: viikko
+0367: tiedän
+0368: esim
+0369: tosin
+0370: minkä
+0371: olis
+0372: vai
+0373: muita
+0374: tippi
+0375: ravintolassa
+0376: esimies
+0377: kipeä
+0378: siihen että
+0379: sen jälkeen
+0380: on jo
+0381: tällä hetkellä
+0382: ja se
+0383: ole mitään
+0384: meillä on
+0385: siitä että
+0386: ei oo
+0387: paikan päälle
+0388: jäädä kotiin
+0389: eläkkeellä
+0390: viikolla
+0391: kk
+0392: tekemättä
+0393: yritti
+0394: jotenkin
+0395: väärin
+0396: perusteella
+0397: perseestä
+0398: työntekijä
+0399: kehittyä
+0400: työnantajan
+0401: minua
+0402: tekeminen
+0403: asiat
+0404: tehdään
+0405: mennä
+0406: työntekijöiden
+0407: nuorempana
+0408: tutkimuksen
+0409: heikkilä
+0410: saavat
+0411: uusia
+0412: jotkut
+0413: vaikea
+0414: kokevat
+0415: saattaa
+0416: monilla
+0417: milloin
+0418: kaksi
+0419: yhä
+0420: sinulla
+0421: video
+0422: voit
+0423: älä
+0424: estä
+0425: yksityisessä
+0426: translain
+0427: ilmeisesti
+0428: henkilö
+0429: miikka
+0430: varila
+0431: yhtäkkiä
+0432: aiemmin
+0433: potilaiden
+0434: potilasturvallisuuden
+0435: asiaa
+0436: rajoitus
+0437: kipinä
+0438: jota
+0439: kertoi
+0440: häiriöiden
+0441: kaikille
+0442: työntekoa
+0443: hänellä
+0444: olleet
+0445: lähti
+0446: oikein
+0447: näihin
+0448: osalta
+0449: niiden
+0450: tilanteessa
+0451: lisää
+0452: muutenkin
+0453: potentiaalia
+0454: kuten
+0455: yhtään
+0456: miehille
+0457: työpaikkoja
+0458: firmat
+0459: matalan
+0460: kynnyksen
+0461: tahansa
+0462: jolloin
+0463: vastaan
+0464: ruoka
+0465: lähes
+0466: kolme
+0467: omaa
+0468: kpl
+0469: helposti
+0470: joko
+0471: sovellus
+0472: ulos
+0473: päätin
+0474: huono
+0475: mä
+0476: joissa
+0477: laittoi
+0478: ukrainan
+0479: trendi
+0480: tappiot
+0481: ukraina
+0482: omaan
+0483: tankkia
+0484: asti
+0485: tarkoita
+0486: katsotaan
+0487: mikäli
+0488: kannalta
+0489: joutuu
+0490: ois
+0491: työpaikan
+0492: monesti
+0493: itseään
+0494: tarpeeksi
+0495: liikaa
+0496: homma
+0497: suhteen
+0498: tullut
+0499: pääsi
+0500: ikinä
+0501: porukkaa
+0502: menemällä
+0503: paikassa
+0504: viikkoa
+0505: haluaa
+0506: paskaa
+0507: riippuu
+0508: mistä
+0509: duunia
+0510: helpompi
+0511: pienemmissä
+0512: tuolla
+0513: saatana
+0514: työpaikassa
+0515: firman
+0516: hieman
+0517: perään
+0518: seuraavana
+0519: osaa
+0520: saman
+0521: mulla
+0522: muutaman
+0523: hommia
+0524: kävelin
+0525: mun
+0526: teki
+0527: onnistuu
+0528: siten
+0529: a
+0530: samaa
+0531: tippaa
+0532: ravintola
+0533: itsellä
+0534: flunssa
+0535: kuume
+0536: korona
+0537: käytäntö
+0538: d
+0539: viikossa
+0540: viime viikolla
+0541: koska ei
+0542: numeroon mutta
+0543: että tipit
+0544: siinä on
+0545: tippaus on
+0546: on käytännössä
+0547: pitää olla
+0548: hän on
+0549: ei tarvitse
+0550: jos on
+0551: on ollut
+0552: ja sitten
+0553: mutta ei
+0554: yksityisessä terveydenhuollossa
+0555: miikka varila
+0556: ei voi
+0557: identiteetin häiriöiden
+0558: matalan kynnyksen
+0559: oli se
+0560: on niin
+0561: en ymmärrä
+0562: koko ajan
+0563: on mutta
+0564: että on
+0565: cv n
+0566: tiedän että
+0567: seuraavana päivänä
+0568: pois töistä
+0569: paikan päällä
+0570: töissä ja
+0571: ei se
+0572: tuli töihin
+0573: jos ei
+0574: samaa mieltä
+0575: sukupuoli identiteetin häiriöiden
+0576: oleva
+0577: isäni
+0578: työpaikkailmoituksia
+0579: osannut
+0580: pidempää
+0581: taimitarha
+0582: onnistui
+0583: piti
+0584: tippauskulttuuria
+0585: suomeen
+0586: palkkoja
+0587: pakollista
+0588: jokainen
+0589: käynyt
+0590: joissain
+0591: minimipalkan
+0592: tarjoilijan
+0593: saisi
+0594: hinnan
+0595: ruoan
+0596: työelämässä
+0597: heitä
+0598: vaikuttaa
+0599: kohtaa
+0600: sukupolvi
+0601: sukupolvet
+0602: nämä
+0603: olevansa
+0604: jenna
+0605: mari
+0606: työskentelee
+0607: hänelle
+0608: työssä
+0609: tojkanderin
+0610: työpaikalla
+0611: päijät
+0612: paikkaan
+0613: voin
+0614: päivä
+0615: uutta
+0616: aiheuttaa
+0617: sairaanhoitaja
+0618: tojkander
+0619: tietoa
+0620: sukupolvien
+0621: positiivinen
+0622: työntekijät
+0623: kehityspäällikkö
+0624: monen
+0625: hyväksy
+0626: tällöin
+0627: valita
+0628: loman
+0629: suomen
+0630: ääressä
+0631: pahimmillaan
+0632: yritysten
+0633: toisaalta
+0634: määrä
+0635: pöydän
+0636: tärkeä
+0637: asia
+0638: pyörii
+0639: kuuluu
+0640: lääkärit
+0641: varten
+0642: kenenkään
+0643: turvallisuutta
+0644: kahden
+0645: ammatinharjoittamisoikeutta
+0646: hormoneja
+0647: asetuksen
+0648: joista
+0649: t
+0650: reseptejä
+0651: hoito
+0652: tosi
+0653: paha
+0654: paikka
+0655: minulle
+0656: ainakaan
+0657: joiden
+0658: ilmoitus
+0659: päätöksen
+0660: jolla
+0661: hoitaa
+0662: näille
+0663: säännösten
+0664: olivat
+0665: ammattioikeuden
+0666: vakavasti
+0667: toimintaa
+0668: transpoliklinikat
+0669: käyttää
+0670: haittaa
+0671: auttaa
+0672: toisin
+0673: potilaita
+0674: savolaisen
+0675: transihmisiä
+0676: ymmärtänyt
+0677: olisivat
+0678: hoitoon
+0679: tänä
+0680: ensimmäisen
+0681: omat
+0682: toista
+0683: eritoten
+0684: luvulla
+0685: langan
+0686: aihe
+0687: mielestäni
+0688: maassa
+0689: miehiä
+0690: mies
+0691: menkää
+0692: töiden
+0693: vuosien
+0694: työpaikat
+0695: kokeilla
+0696: syystä
+0697: aloitteinen
+0698: tarjoavat
+0699: itselleen
+0700: tekemällä
+0701: naisia
+0702: useat
+0703: sanoen
+0704: luokkaa
+0705: uskon
+0706: euroa
+0707: yhteiskunnassa
+0708: kysymys
+0709: mahdollisuuksia
+0710: kaikilla
+0711: parantaa
+0712: luoda
+0713: asiasta
+0714: mennessä
+0715: lapsia
+0716: toiset
+0717: tulossa
+0718: matka
+0719: ollessa
+0720: they
+0721: them
+0722: oliko
+0723: viesti
+0724: eka
+0725: mut
+0726: miksei
+0727: ongelma
+0728: menossa
+0729: sanoa
+0730: sanoin
+0731: näen
+0732: mielessä
+0733: nopeasti
+0734: vanhan
+0735: minulta
+0736: asiakas
+0737: tuon
+0738: laskun
+0739: tänään
+0740: tietenkään
+0741: venäjällä
+0742: hetki
+0743: kuun
+0744: loppuun
+0745: liian
+0746: aikaista
+0747: lopussa
+0748: pitänyt
+0749: lukuja
+0750: toiseen
+0751: kaistalle
+0752: tällaisen
+0753: hiljaa
+0754: minulla
+0755: oon
+0756: oikeesti
+0757: asiakkaat
+0758: työhön
+0759: sinua
+0760: jollain
+0761: tapaa
+0762: itsesi
+0763: harvoin
+0764: täydellinen
+0765: erilaisia
+0766: asiassa
+0767: itseäni
+0768: kokemusta
+0769: päässyt
+0770: kädenpuristus
+0771: tuntia
+0772: menin
+0773: muiden
+0774: aikaa
+0775: paikalla
+0776: kysymään
+0777: pelkästään
+0778: itselle
+0779: ala
+0780: hommaan
+0781: osaamista
+0782: hommiin
+0783: kaiken
+0784: helvetti
+0785: hakee
+0786: homman
+0787: jostain
+0788: puhelimella
+0789: kävelemällä
+0790: kyseinen
+0791: yms
+0792: ni
+0793: käymään
+0794: palkkaa
+0795: tekemistä
+0796: omia
+0797: ellei
+0798: tietysti
+0799: pientä
+0800: viestiä
+0801: löytyy
+0802: menemään
+0803: nää
+0804: työntekijälle
+0805: tapauksessa
+0806: kans
+0807: vika
+0808: painaa
+0809: aikoinaan
+0810: kuulemma
+0811: parin
+0812: paremmin
+0813: nimenomaan
+0814: erikseen
+0815: siskoni
+0816: kysyi
+0817: tehnyt
+0818: poikkeus
+0819: kivaa
+0820: niillä
+0821: samana
+0822: ensimmäinen
+0823: nenä
+0824: kysyy
+0825: tipin
+0826: kerralla
+0827: selvästi
+0828: tippaan
+0829: tänne
+0830: mahdollisuus
+0831: ravintolaan
+0832: automaattikassat
+0833: potkut
+0834: tulevat
+0835: kaks
+0836: saikkua
+0837: pää
+0838: etänä
+0839: ite
+0840: saatanan
+0841: hyvällä
+0842: koronan
+0843: ymmärrän
+0844: vittu
+0845: tartuttaa
+0846: kuumeessa
+0847: palvelu on
+0848: joka on
+0849: tippauskulttuuri on
+0850: jenna mari
+0851: tekeminen on
+0852: niina tojkander
+0853: niin että
+0854: e tutkimuksen
+0855: tutkimuksen kehityspäällikkö
+0856: sitä että
+0857: siitä ettei
+0858: sille että
+0859: syy on
+0860: on tärkeä
+0861: translain ja
+0862: ja asetuksen
+0863: asetuksen vastaisesti
+0864: kuva miikka
+0865: samaan aikaan
+0866: en ole
+0867: ei myöskään
+0868: mutta tämä
+0869: langan aihe
+0870: on mahdollista
+0871: töihin jos
+0872: ja firmat
+0873: oma aloitteinen
+0874: ole mikään
+0875: niin en
+0876: on kuitenkin
+0877: töitä niin
+0878: on vain
+0879: sitä kautta
+0880: ja en
+0881: ja kun
+0882: ei toimi
+0883: voi käydä
+0884: niin mikä
+0885: tappiot ovat
+0886: on ja
+0887: aikana ja
+0888: on vielä
+0889: on nyt
+0890: vuosia sitten
+0891: ei olisi
+0892: ei vaan
+0893: ennen kun
+0894: jos et
+0895: niin ei
+0896: tai sitten
+0897: aina voi
+0898: on vaan
+0899: mikään ei
+0900: ei riitä
+0901: ja ei
+0902: varsinkin jos
+0903: ihan vaan
+0904: sisään ja
+0905: että ei
+0906: olen ollut
+0907: tätä tapahtuu
+0908: tai ei
+0909: vaan oli
+0910: kukaan ei
+0911: mitään mutta
+0912: niin paljon
+0913: jotka ovat
+0914: siten että
+0915: kertoi että
+0916: töihin sairaana
+0917: tulla töihin
+0918: tunnin palkan
+0919: e tutkimuksen kehityspäällikkö
+0920: translain ja asetuksen
+0921: ja asetuksen vastaisesti
+0922: ja sen jälkeen
+0923: kuva miikka varila
+0924: mutta tämä on
+0925: ei ole mitään
+0926: on se että
+0927: aina voi olla
+0928: translain ja asetuksen vastaisesti

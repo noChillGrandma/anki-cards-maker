@@ -1,1001 +1,1001 @@
 ----- Top Words and Phrases -----
 0001: ja
-0002: että
-0003: ei
-0004: kun
+0002: ei
+0003: että
+0004: voi
 0005: se
 0006: mutta
-0007: oli
-0008: jos
-0009: niin
-0010: ole
-0011: tai
-0012: hän
-0013: voi
-0014: mukaan
-0015: myös
+0007: tai
+0008: kun
+0009: myös
+0010: oli
+0011: olen
+0012: ole
+0013: jos
+0014: en
+0015: kuin
 0016: olla
-0017: ovat
-0018: sen
-0019: olisi
-0020: töihin
-0021: nyt
-0022: en
-0023: sitten
-0024: kuin
-0025: ollut
+0017: niin
+0018: ovat
+0019: hän
+0020: nyt
+0021: vain
+0022: sen
+0023: sitä
+0024: paljon
+0025: esimerkiksi
 0026: ei ole
-0027: tämä
-0028: jo
+0027: hyvin
+0028: tämä
 0029: joka
-0030: kertoo
-0031: vielä
-0032: venäjän
-0033: ihan
-0034: siitä
+0030: sitten
+0031: kuvat
+0032: ne
+0033: kanssa
+0034: jo
 0035: vaikka
-0036: vaan
-0037: kanssa
-0038: olen
-0039: töitä
-0040: koska
-0041: ukrainan
-0042: sekä
-0043: sitä
-0044: mitään
-0045: jälkeen
-0046: paljon
-0047: mitä
-0048: vain
-0049: kyllä
-0050: eikä
-0051: kuitenkin
-0052: tulee
-0053: aina
-0054: itse
-0055: jossa
-0056: kertoi
+0036: minä
+0037: lähteet
+0038: koska
+0039: siitä
+0040: ihminen
+0041: mitä
+0042: ollut
+0043: hyvä
+0044: jälkeen
+0045: usein
+0046: se on
+0047: aina
+0048: mukaan
+0049: olisi
+0050: voi olla
+0051: minulla
+0052: vähän
+0053: omat
+0054: saa
+0055: tulee
+0056: miten
 0057: kaikki
-0058: n
-0059: yhdysvaltain
-0060: viime
-0061: saa
-0062: tässä
-0063: koko
-0064: venäjä
-0065: siinä
-0066: ettei
-0067: suomessa
-0068: sillä
-0069: voisi
-0070: ukrainaan
-0071: siihen
-0072: hänen
-0073: ennen
-0074: jotka
-0075: mikä
-0076: tuli
-0077: tämän
-0078: sanoi
-0079: noin
-0080: tätä
-0081: osa
-0082: aikana
-0083: kipeänä
-0084: se on
-0085: saada
-0086: taas
-0087: näin
-0088: niitä
-0089: ne
-0090: eivät
-0091: joskus
-0092: vähän
-0093: ilman
-0094: toki
-0095: hyvin
-0096: pitäisi
-0097: yksi
-0098: joku
-0099: kotiin
-0100: se että
-0101: miten
-0102: eri
-0103: lisäksi
-0104: meillä
-0105: yli
-0106: hyvä
-0107: edes
-0108: kautta
-0109: et
-0110: presidentti
-0111: eli
-0112: jopa
-0113: pitää
-0114: sanoo
-0115: enemmän
-0116: juuri
-0117: tuo
-0118: muun
-0119: tällä
-0120: no
-0121: ihmiset
-0122: avoimen
-0123: yhdysvallat
-0124: trumpin
-0125: voi olla
-0126: ajan
-0127: minä
-0128: euroa
-0129: päälle
-0130: tästä
-0131: pois
-0132: patriot
-0133: päästä
-0134: jotain
-0135: tehdä
-0136: missä
-0137: samalla
-0138: esimerkiksi
-0139: yliopiston
-0140: vuoden
-0141: hetkellä
-0142: lisää
-0143: kuinka
-0144: oikeasti
-0145: töissä
-0146: jonka
-0147: yleensä
-0148: päivän
-0149: silti
-0150: takia
-0151: paikan
-0152: s
-0153: kertoo että
-0154: ei ollut
-0155: käytännössä
-0156: saanut
-0157: he
-0158: vasta
-0159: olin
-0160: muassa
-0161: mikään
-0162: joten
-0163: heti
-0164: aivan
-0165: kiinni
-0166: usein
-0167: tähän
-0168: aika
-0169: ainakin
-0170: muun muassa
-0171: olevan
-0172: suomen
-0173: miksi
-0174: valta
-0175: kaksi
-0176: onko
-0177: vuonna
-0178: aikaan
-0179: toinen
-0180: ihmisiä
-0181: oma
-0182: siis
-0183: prosenttia
-0184: päällä
-0185: toimii
-0186: varmaan
-0187: ihminen
-0188: tulla
-0189: sain
-0190: haluaa
-0191: viikon
-0192: sairaana
-0193: aseita
-0194: on että
-0195: sen jälkeen
-0196: tällä hetkellä
-0197: tipit
-0198: maksaa
-0199: nuoret
-0200: voivat
-0201: hyvää
-0202: paikalle
-0203: kuva
-0204: heidän
-0205: mielestä
-0206: vuotta
-0207: meidän
-0208: uusia
-0209: antaa
-0210: uuden
-0211: meille
-0212: toimi
-0213: valvira
-0214: valviran
-0215: aiemmin
-0216: savolainen
-0217: koskaan
-0218: pari
-0219: varmasti
-0220: ukrainalle
-0221: yhden
-0222: ku
-0223: tippiä
-0224: jäädä
-0225: temu
-0226: on kuitenkin
-0227: alle
-0228: vanhemmat
-0229: tekemään
-0230: emilia
-0231: saattaa
-0232: tapahtuu
-0233: moni
-0234: edelleen
-0235: lääkäri
-0236: vuoksi
-0237: käy
-0238: sai
-0239: enää
-0240: erittäin
-0241: todella
-0242: euroopan
-0243: täysin
-0244: tekee
-0245: sinne
-0246: kuka
-0247: työt
-0248: kolme
-0249: kävi
-0250: etenkin
-0251: oo
-0252: itsensä
-0253: palkan
-0254: pomo
-0255: kotona
-0256: alkoi
-0257: joo
-0258: saikulla
-0259: alisa
-0260: siihen että
-0261: hän on
-0262: on ollut
-0263: hän ei
-0264: on jo
-0265: tämä on
-0266: ja se
-0267: kun ei
-0268: siitä että
-0269: alisa valta
-0270: viikolla
-0271: perusteella
-0272: samaan
-0273: palvelu
-0274: tippaus
-0275: sukupolven
-0276: välillä
-0277: valmis
-0278: työtä
-0279: tehty
-0280: läpi
-0281: jotta
-0282: sukupuoli
-0283: identiteetin
-0284: pääsee
-0285: johon
-0286: tilanne
-0287: vakavasti
-0288: asioita
-0289: niiden
-0290: kyllähän
-0291: halua
-0292: mahdollista
-0293: cv
-0294: laittaa
-0295: töistä
-0296: nykyään
-0297: olet
-0298: kertaa
-0299: silloin
-0300: ollaan
-0301: siltä
-0302: sama
-0303: jossain
-0304: venäjältä
-0305: jää
-0306: ihmisen
-0307: kukaan
-0308: tyytyväinen
-0309: liikaa
-0310: onneksi
-0311: tullut
-0312: aikaa
-0313: paskaa
-0314: päivänä
-0315: kerran
-0316: sit
-0317: teki
-0318: tunnin
-0319: saikulle
-0320: maanantaina
-0321: kipeenä
-0322: viime viikolla
-0323: on paljon
-0324: se ei
-0325: sukupuoli identiteetin
-0326: ei saa
-0327: ei voi
-0328: meillä on
-0329: ensin
-0330: soittaa
-0331: tuntuu
-0332: työn
-0333: työpaikoilla
-0334: näkyy
-0335: nuorten
-0336: tarvitse
-0337: mennä
-0338: uutta
-0339: pitkään
-0340: joita
-0341: ihmisten
-0342: nuori
-0343: yhä
-0344: useita
-0345: joiden
-0346: jota
-0347: näyttää
-0348: vuosia
-0349: näitä
-0350: mielestäni
-0351: kunnon
-0352: lähes
-0353: uudelleen
-0354: käydä
-0355: yritys
-0356: joissa
-0357: ukraina
-0358: tuossa
-0359: ukrainassa
-0360: alueella
-0361: just
-0362: menee
-0363: sisään
-0364: varsinkin
-0365: lähinnä
-0366: siellä
-0367: myynti
-0368: omalla
-0369: muita
-0370: kysyi
-0371: päivää
-0372: euron
-0373: tarjoilija
-0374: tuotteiden
-0375: ihmistä
-0376: haaslahti
-0377: temun
-0378: saksan
-0379: helsingin
-0380: nato
-0381: lähteet
-0382: z sukupolven
-0383: mutta ei
-0384: ja sen
-0385: ilman että
-0386: on se
+0058: ehkä
+0059: vaan
+0060: siihen
+0061: helsingin
+0062: yleensä
+0063: vielä
+0064: pitää
+0065: niitä
+0066: itse
+0067: eikä
+0068: sanomat
+0069: helsingin sanomat
+0070: taas
+0071: kuvat omat
+0072: muun
+0073: koko
+0074: kuitenkin
+0075: sanomat kuvat
+0076: helsingin sanomat kuvat
+0077: minun
+0078: muassa
+0079: muun muassa
+0080: tämän
+0081: aivan
+0082: näin
+0083: mikä
+0084: jotka
+0085: lähteet helsingin
+0086: välillä
+0087: lähteet helsingin sanomat
+0088: ettei
+0089: tehdä
+0090: noin
+0091: pitäisi
+0092: minulle
+0093: enemmän
+0094: lähteet helsingin sanomat kuvat
+0095: saattaa
+0096: kuten
+0097: eivät
+0098: liian
+0099: voivat
+0100: kaksi
+0101: silloin
+0102: pois
+0103: jopa
+0104: hänen
+0105: mitään
+0106: eli
+0107: olin
+0108: yksi
+0109: alkaa
+0110: ennen
+0111: aika
+0112: vera
+0113: enää
+0114: vaikuttaa
+0115: tässä
+0116: ihmiset
+0117: kannattaa
+0118: sanoo
+0119: joskus
+0120: tätä
+0121: siinä
+0122: mies
+0123: vuotta
+0124: kyllä
+0125: ajan
+0126: hyvää
+0127: toinen
+0128: aikaa
+0129: minua
+0130: siis
+0131: tuli
+0132: en ole
+0133: lisäksi
+0134: he
+0135: jossa
+0136: ihmisen
+0137: minulla on
+0138: sillä
+0139: jotakin
+0140: kertaa
+0141: lisää
+0142: onko
+0143: tähän
+0144: tästä
+0145: tuntuu
+0146: osa
+0147: miksi
+0148: on ollut
+0149: viime
+0150: pixabay
+0151: onneksi
+0152: sain
+0153: melkein
+0154: aikana
+0155: etenkin
+0156: siksi
+0157: tunne
+0158: saada
+0159: siitä että
+0160: veran
+0161: asioita
+0162: takia
+0163: helposti
+0164: edes
+0165: auttaa
+0166: toisen
+0167: tullut
+0168: sinä
+0169: eri
+0170: todella
+0171: sanomat kuvat omat
+0172: kolme
+0173: tuo
+0174: miehen
+0175: aiheuttaa
+0176: helsingin sanomat kuvat omat
+0177: vuoden
+0178: olo
+0179: se että
+0180: juuri
+0181: käyttää
+0182: joku
+0183: oma
+0184: meillä
+0185: jotenkin
+0186: tekee
+0187: ottaa
+0188: kuvat pixabay
+0189: kertoo
+0190: vai
+0191: olivat
+0192: voisi
+0193: hän on
+0194: tällä
+0195: yli
+0196: ihon
+0197: osaa
+0198: tulla
+0199: sanoi
+0200: syödä
+0201: on myös
+0202: elämä
+0203: tämä on
+0204: kotona
+0205: vaikea
+0206: nopeasti
+0207: sekä
+0208: kaikille
+0209: melko
+0210: ja se
+0211: ilman
+0212: elämän
+0213: tärkeää
+0214: teen
+0215: terveys
+0216: jotta
+0217: asia
+0218: edelleen
+0219: jonka
+0220: mieltä
+0221: itseään
+0222: tunteita
+0223: moni
+0224: heti
+0225: silti
+0226: kerran
+0227: päivän
+0228: on hyvä
+0229: antaa
+0230: niiden
+0231: se voi
+0232: vasta
+0233: oman
+0234: itsensä
+0235: hän oli
+0236: yhtä
+0237: koskaan
+0238: nykyisin
+0239: nämä
+0240: tuntia
+0241: ihan
+0242: yhdessä
+0243: tarvitse
+0244: kuinka
+0245: muita
+0246: samoin
+0247: kannattaisi
+0248: samalla
+0249: aikaan
+0250: se ei
+0251: syy
+0252: täysin
+0253: saanut
+0254: joten
+0255: liittyy
+0256: mieli
+0257: varmasti
+0258: suuri
+0259: tunteet
+0260: vuonna
+0261: kuoli
+0262: kuuluu
+0263: liikaa
+0264: on niin
+0265: tavalla
+0266: ihmisiä
+0267: mennä
+0268: pitkään
+0269: elämää
+0270: toisaalta
+0271: voidaan
+0272: jota
+0273: joka on
+0274: sijaan
+0275: viikossa
+0276: joita
+0277: olet
+0278: ainakin
+0279: syö
+0280: minusta
+0281: jotkut
+0282: ruokaa
+0283: muut
+0284: nainen
+0285: enkä
+0286: muiden
+0287: haluaa
+0288: menee
+0289: mistä
+0290: minä olen
+0291: terveys kuvat
+0292: monet
+0293: asiat
+0294: suru
+0295: stressi
+0296: päästä
+0297: sanoa
+0298: omaa
+0299: mieleen
+0300: käy
+0301: niistä
+0302: meidän
+0303: täällä
+0304: häntä
+0305: kotiin
+0306: aivojen
+0307: päivä
+0308: elämään
+0309: muuta
+0310: me
+0311: ihoa
+0312: syön
+0313: rakas
+0314: oikein
+0315: niin että
+0316: on hyvin
+0317: piti
+0318: apua
+0319: kuitenkaan
+0320: iho
+0321: vuotias
+0322: näitä
+0323: prosenttia
+0324: huono
+0325: asti
+0326: tapa
+0327: kiinni
+0328: päälle
+0329: monta
+0330: mielestä
+0331: saattavat
+0332: ei voi
+0333: ajatella
+0334: läpi
+0335: halua
+0336: siellä
+0337: vuoksi
+0338: mielestäni
+0339: puhua
+0340: erityisesti
+0341: ei ollut
+0342: tärkeä
+0343: ruoka
+0344: tein
+0345: viikon
+0346: elää
+0347: päivässä
+0348: kehon
+0349: syytä
+0350: ihmisten
+0351: uusi
+0352: kunnolla
+0353: erilaisia
+0354: kaiken
+0355: se oli
+0356: että se
+0357: erittäin
+0358: oikeasti
+0359: sanomat kuvat pixabay
+0360: helsingin sanomat kuvat pixabay
+0361: lopulta
+0362: pari
+0363: jää
+0364: ne ovat
+0365: päivänä
+0366: mutta se
+0367: olevan
+0368: kuoleman
+0369: on paljon
+0370: niin paljon
+0371: aluksi
+0372: tällöin
+0373: viikolla
+0374: vastaan
+0375: eniten
+0376: pieni
+0377: pexel
+0378: on jo
+0379: kautta
+0380: tiedä
+0381: on tullut
+0382: tarkoittaa
+0383: yhden
+0384: paremmin
+0385: hänelle
+0386: suomessa
 0387: koko ajan
-0388: ja jos
-0389: mutta se
-0390: kun on
-0391: töihin ja
-0392: avoimen yliopiston
-0393: numeroon
-0394: johtaa
-0395: jenkeissä
-0396: tietää
-0397: tippauskulttuuri
-0398: niina
-0399: työntekijöiden
-0400: e
-0401: tutkimuksen
-0402: vaikea
-0403: työ
-0404: tärkeä
-0405: vastaisesti
-0406: joista
-0407: kyse
-0408: yleisesti
-0409: olivat
-0410: kaikille
-0411: voidaan
-0412: ymmärrä
-0413: osalta
-0414: muuten
-0415: heillä
-0416: kunnat
-0417: jolloin
-0418: millä
-0419: mahdollisuuksia
-0420: alkaa
-0421: jäi
-0422: mennessä
-0423: jatkuvasti
-0424: juttu
-0425: tänään
-0426: venäjällä
-0427: loppuun
-0428: asti
-0429: kannalta
-0430: parempi
-0431: erilaisia
-0432: takana
-0433: niistä
-0434: sattuu
-0435: firmassa
-0436: kaiken
-0437: eipä
-0438: kaveri
-0439: keinot
-0440: vaatii
-0441: hieman
-0442: minkä
-0443: vai
-0444: maksetaan
-0445: kerrotaan
-0446: siten
-0447: kyseessä
-0448: olo
-0449: ensi
-0450: kylpylähotelli
-0451: me
-0452: iltalehti
-0453: tuotteita
-0454: miljoonaa
-0455: ryhmän
-0456: tammi
-0457: kysyntä
-0458: arvioi
-0459: tutkinnon
-0460: torstaina
-0461: sodan
-0462: venäjää
-0463: kiovaan
-0464: drooni
-0465: valviran mukaan
-0466: se oli
-0467: venäjä on
-0468: kipeänä töihin
-0469: s ryhmän
-0470: yhdysvaltain presidentti
-0471: eläkkeelle
-0472: älkää
-0473: suomeen
-0474: käynyt
-0475: asiakkaan
-0476: kehittyä
-0477: työpaikalle
-0478: tekeminen
-0479: asiat
-0480: tehdään
-0481: uusi
-0482: jotkut
-0483: tavalla
-0484: syy
-0485: sille
-0486: yritysten
-0487: milloin
-0488: voit
-0489: turvallisuutta
-0490: lääkärin
-0491: terveydenhuollossa
-0492: hoitoa
-0493: enkä
-0494: ainakaan
-0495: mukaansa
-0496: tehtiin
-0497: asiaa
-0498: kohdalla
-0499: oikeutta
-0500: myöskään
-0501: työntekoa
-0502: hänellä
-0503: olleet
-0504: toisin
-0505: lähti
-0506: rajoituksen
-0507: ymmärtänyt
-0508: oikein
-0509: näihin
-0510: pysty
-0511: riitä
-0512: puolen
-0513: miesten
-0514: luvulla
-0515: kuten
-0516: aihe
-0517: vuosien
-0518: syystä
-0519: meni
-0520: tahansa
-0521: vastaan
-0522: sieltä
-0523: palkalla
-0524: mieltä
-0525: sinä
-0526: lle
-0527: keskustelua
-0528: omaa
-0529: olemaan
-0530: vastaavat
-0531: viesti
-0532: ulos
-0533: heittää
-0534: helvetin
-0535: saan
-0536: pääsin
-0537: nopeasti
-0538: missään
-0539: tuota
-0540: melkein
-0541: omaan
-0542: yhtä
-0543: mukana
-0544: mikäli
-0545: tää
-0546: monesti
-0547: eilen
-0548: täytyy
-0549: tarkoittaa
-0550: tein
-0551: alalla
-0552: varaa
-0553: suhteen
-0554: firmoissa
-0555: rekry
-0556: mene
-0557: muiden
-0558: v
-0559: viikko
-0560: mistä
-0561: tiedän
-0562: esim
-0563: työpaikassa
-0564: vastannut
-0565: tosin
-0566: perään
-0567: osaa
-0568: omia
-0569: tietysti
-0570: olis
-0571: muuta
-0572: aikoinaan
-0573: nimenomaan
-0574: tule
-0575: tehnyt
-0576: saadaan
-0577: aamulla
-0578: tippi
-0579: tarvitsee
-0580: samaa
-0581: ravintolassa
-0582: the
-0583: hinta
-0584: yhdysvalloissa
-0585: hinnat
-0586: euroopassa
-0587: viisi
-0588: ensimmäistä
-0589: esimies
-0590: kipeä
-0591: viikossa
-0592: lähellä
-0593: perheen
-0594: otkes
-0595: otkesin
-0596: selvää
-0597: kauhanen
-0598: kauhasen
-0599: yyterin
-0600: eu
-0601: kesäkuussa
-0602: yliopisto
-0603: haapala
-0604: yliopistossa
-0605: björn
-0606: reutersin
-0607: lähteiden
-0608: ohjuksia
-0609: ukrainaa
-0610: wsj
-0611: kuvat
-0612: koska ei
-0613: siinä on
-0614: niin että
-0615: jos on
-0616: ole vielä
-0617: hänen mukaansa
-0618: ole mitään
-0619: että se
-0620: ei oo
-0621: paikan päälle
-0622: että on
-0623: paikan päällä
-0624: siten että
-0625: jäädä kotiin
-0626: tammi kesäkuussa
-0627: miljoonaa euroa
-0628: ukrainan sodan
-0629: lähteiden mukaan
-0630: eläkkeellä
-0631: kk
-0632: tekemättä
-0633: yritti
-0634: jotenkin
-0635: onnistui
-0636: väärin
-0637: kirjoittaa
-0638: perseestä
-0639: saisi
-0640: hinnan
-0641: ruoan
-0642: työntekijä
-0643: mahdollisuutta
-0644: vaikuttaa
-0645: työnantajan
-0646: yhteen
-0647: neljä
-0648: nämä
-0649: olevansa
-0650: jenna
-0651: hänelle
-0652: minua
-0653: eteenpäin
-0654: päivä
-0655: uskoo
-0656: nuorempana
-0657: heikkilä
-0658: monen
-0659: välttämättä
-0660: saavat
-0661: yrityksille
-0662: kokevat
-0663: monilla
-0664: muutos
-0665: määrä
-0666: henkilöä
-0667: asia
-0668: kuuluu
-0669: varten
-0670: sinulla
-0671: video
-0672: lähettää
-0673: alla
-0674: älä
-0675: estä
-0676: kahden
-0677: yksityisessä
-0678: translain
-0679: kuullut
-0680: ilmeisesti
-0681: ilmi
-0682: henkilö
-0683: miikka
-0684: varila
-0685: tosi
-0686: paikka
-0687: minulle
-0688: yhtäkkiä
-0689: potilaiden
-0690: jolla
-0691: näille
-0692: potilasturvallisuuden
-0693: rajoitus
-0694: kipinä
-0695: aloittanut
-0696: tutkimuksia
-0697: useiden
-0698: erityisen
-0699: häiriöiden
-0700: käyttää
-0701: tänä
-0702: voimaan
-0703: vaikeaa
-0704: omat
-0705: tilanteessa
-0706: toista
-0707: olemme
-0708: aikoina
-0709: muutenkin
-0710: vuodesta
-0711: potentiaalia
-0712: yhtään
-0713: mies
-0714: miehille
-0715: työpaikkoja
-0716: firmat
-0717: menevät
-0718: kokeilla
-0719: matalan
-0720: kynnyksen
-0721: tarjoavat
-0722: tekemällä
-0723: järjestelmä
-0724: sanoen
-0725: tavoin
-0726: toimittaa
-0727: ruoka
-0728: täällä
-0729: suurin
-0730: asiasta
-0731: kpl
-0732: helposti
-0733: toiset
-0734: tulossa
-0735: välittömästi
-0736: matka
-0737: joko
-0738: sovellus
-0739: ongelma
-0740: päätin
-0741: sanoa
-0742: huono
-0743: verran
-0744: mä
-0745: minulta
-0746: laittoi
-0747: laskun
-0748: trendi
-0749: tavoitteena
-0750: tappiot
-0751: tankkia
-0752: kesän
-0753: liian
-0754: venäjälle
-0755: tarkoita
-0756: putinin
-0757: merkittävästi
-0758: katsotaan
-0759: minulla
-0760: väkivaltaa
-0761: joutuu
-0762: asiakkaat
-0763: ois
-0764: työpaikan
-0765: itseään
-0766: työhön
-0767: harvoin
-0768: tarpeeksi
-0769: homma
-0770: kokemusta
-0771: pääsi
-0772: tuolloin
-0773: ikinä
-0774: porukkaa
-0775: menemällä
-0776: paikassa
-0777: itselle
-0778: sellaista
-0779: viikkoa
-0780: työstä
-0781: ala
-0782: alan
-0783: riippuu
-0784: hakee
-0785: duunia
-0786: helpompi
-0787: pienemmissä
-0788: kyseinen
-0789: haki
-0790: tuolla
-0791: avulla
-0792: saatana
-0793: firman
-0794: seuraavana
-0795: haastattelussa
-0796: pientä
-0797: saman
-0798: mulla
-0799: muutaman
-0800: löytyy
-0801: menemään
-0802: hommia
-0803: kävelin
-0804: mun
-0805: onnistuu
-0806: paremmin
-0807: irti
-0808: tulokset
-0809: ensimmäinen
-0810: niille
-0811: a
-0812: hyväksi
-0813: kysyy
-0814: ravintoloissa
-0815: tippaa
-0816: tehtävä
-0817: ravintola
-0818: anna
-0819: mahdollisuus
-0820: itsellä
-0821: suuri
-0822: flunssa
-0823: kuume
-0824: korona
-0825: käytäntö
-0826: d
-0827: onkin
-0828: aiheesta
-0829: monet
-0830: myöhemmin
-0831: totesivat
-0832: äiti
-0833: kiuas
-0834: kiukaan
-0835: iltalehdelle
-0836: työviikon
-0837: hallituksen
-0838: selviää
-0839: saamaan
-0840: keskiviikkona
-0841: uudistus
-0842: prosentin
-0843: lapin
-0844: ilma
-0845: yhteensä
-0846: tutkinto
-0847: suorittaa
-0848: opintoja
-0849: ampui
-0850: kiovan
-0851: naton
-0852: presidentin
-0853: uutistoimisto
-0854: rjabkov
-0855: luut
-0856: pakotteiden
-0857: niko
-0858: stenvall
-0859: kokouksessa
-0860: putiniin
-0861: merz
-0862: käytetty
-0863: saksa
-0864: ohjusta
-0865: pakotteita
-0866: valehtelu
-0867: numeroon mutta
-0868: kun tämä
-0869: että tipit
-0870: tippaus on
-0871: on käytännössä
-0872: pitää olla
-0873: ei tarvitse
-0874: ja sitten
-0875: on tärkeä
-0876: yksityisessä terveydenhuollossa
-0877: miikka varila
-0878: samaan aikaan
-0879: identiteetin häiriöiden
-0880: en ole
-0881: on mahdollista
-0882: matalan kynnyksen
-0883: oli se
-0884: on vain
-0885: on niin
-0886: en ymmärrä
-0887: pitäisi olla
-0888: on nyt
-0889: mutta hän
-0890: on mutta
-0891: ja samalla
-0892: cv n
-0893: että ei
-0894: tiedän että
-0895: seuraavana päivänä
-0896: pois töistä
-0897: sanoi että
-0898: niin paljon
-0899: töissä ja
-0900: jotka ovat
-0901: ei tule
-0902: ei se
-0903: tuli töihin
-0904: kertoi että
-0905: jos ei
-0906: samaa mieltä
-0907: hän kertoi
-0908: on viime
-0909: iltalehti kysyi
-0910: n mukaan
-0911: haapala sanoo
-0912: avoimen puolen
-0913: presidentti kertoi
-0914: että yhdysvallat
-0915: jälkeen kun
-0916: niko stenvall
-0917: on valmis
-0918: venäjän presidentti
-0919: yhdysvallat on
-0920: ei ole vielä
-0921: sukupuoli identiteetin häiriöiden
-0922: on se että
-0923: mutta se ei
-0924: sen jälkeen kun
-0925: oleva
-0926: isäni
-0927: työpaikkailmoituksia
-0928: osannut
-0929: pidempää
-0930: taimitarha
-0931: piti
-0932: tippauskulttuuria
-0933: palkkoja
-0934: pakollista
-0935: jokainen
-0936: kymmenestä
-0937: joissain
-0938: minimipalkan
-0939: tarjoilijan
-0940: siksi
-0941: oikean
-0942: työelämässä
-0943: heitä
-0944: haluavat
-0945: asioihin
-0946: tärkeää
-0947: kohtaa
-0948: sukupolvi
-0949: sukupolvet
-0950: mari
-0951: työskentelee
-0952: miettiä
-0953: työssä
-0954: tojkanderin
-0955: työpaikalla
-0956: päijät
-0957: paikkaan
-0958: voin
-0959: molemmat
-0960: erot
-0961: aiheuttaa
-0962: sairaanhoitaja
-0963: tojkander
-0964: tietoa
-0965: pääosin
-0966: sukupolvien
-0967: positiivinen
-0968: työntekijät
-0969: kehityspäällikkö
-0970: tutkimuksissa
-0971: joissakin
-0972: hyväksy
-0973: kaikkia
-0974: tällöin
-0975: neuvottelemaan
-0976: valita
-0977: monta
-0978: loman
-0979: selkeä
-0980: ääressä
-0981: hyvästä
-0982: pahimmillaan
-0983: kaikkea
-0984: hoidetaan
-0985: laskee
-0986: uusien
-0987: resursseja
-0988: toisaalta
-0989: vuosina
-0990: pöydän
-0991: uudella
-0992: pyörii
-0993: ympärillä
-0994: lääkärit
-0995: onnettomuus
-0996: kenenkään
-0997: ammatinharjoittamisoikeutta
-0998: hormoneja
-0999: asetuksen
-1000: hirveän
+0388: n
+0389: tunteiden
+0390: sydän
+0391: monesti
+0392: ei tarvitse
+0393: hän ei
+0394: on vain
+0395: haluan
+0396: vähentää
+0397: vähemmän
+0398: minä en
+0399: alkoi
+0400: aamulla
+0401: uuden
+0402: mielen
+0403: näyttää
+0404: hoitaa
+0405: kiloa
+0406: on se
+0407: toimii
+0408: tehnyt
+0409: johtaa
+0410: kasvaa
+0411: aivot
+0412: uusia
+0413: hänellä
+0414: tänä
+0415: töissä
+0416: siiri
+0417: ihminen voi
+0418: siihen että
+0419: mutta en
+0420: välttämättä
+0421: no
+0422: viikonloppua
+0423: ahdistus
+0424: mielessä
+0425: ihmistä
+0426: kyse
+0427: tarpeeksi
+0428: toisten
+0429: etten
+0430: miltei
+0431: koska se
+0432: alle
+0433: olemme
+0434: saan
+0435: ihmisistä
+0436: taustalla
+0437: ollaan
+0438: anna
+0439: sanoi että
+0440: iso
+0441: tavallista
+0442: niin kuin
+0443: tilanne
+0444: vaikkapa
+0445: muutaman
+0446: tule
+0447: tunnin
+0448: jokin
+0449: sitä että
+0450: tietää
+0451: yhä
+0452: elämässä
+0453: vanha
+0454: lapsen
+0455: pidän
+0456: illalla
+0457: hetkellä
+0458: lapsi
+0459: käydä
+0460: kirjoitan
+0461: yrittää
+0462: jonkin
+0463: muista
+0464: vähitellen
+0465: on kuitenkin
+0466: että hän
+0467: sen sijaan
+0468: heidän
+0469: missä
+0470: liikunta
+0471: on että
+0472: suurin
+0473: omia
+0474: seuraavaksi
+0475: uni
+0476: mikä on
+0477: mikään
+0478: hyviä
+0479: terve
+0480: sopii
+0481: ajatus
+0482: ja sen
+0483: on nyt
+0484: vuotta sitten
+0485: ihminen on
+0486: kannata
+0487: johtuu
+0488: asioista
+0489: jos on
+0490: hyvä terveys
+0491: määrä
+0492: vaikuttavat
+0493: minut
+0494: ikään
+0495: kirjoittaa
+0496: voin
+0497: pelko
+0498: oireita
+0499: keho
+0500: yksin
+0501: kuvat pexel
+0502: viikonloppua kaikille
+0503: tutkimusten
+0504: omasta
+0505: lähinnä
+0506: pidä
+0507: uutta
+0508: sama
+0509: äiti
+0510: voinut
+0511: kun on
+0512: aikaisemmin
+0513: naiset
+0514: jatkuvasti
+0515: kokonaan
+0516: itsestään
+0517: kuvia
+0518: yllättäen
+0519: paras
+0520: on vaikea
+0521: että on
+0522: joiden
+0523: sisältää
+0524: kokee
+0525: itselleen
+0526: vuotiaana
+0527: suoraan
+0528: tänään
+0529: kohtaan
+0530: jostakin
+0531: puoli
+0532: ikävä
+0533: miehen kanssa
+0534: asiaa
+0535: takaisin
+0536: oppia
+0537: sai
+0538: pysty
+0539: jolloin
+0540: paitsi
+0541: kertoa
+0542: sinulla
+0543: olleet
+0544: vaikeaa
+0545: toiseen
+0546: syntyy
+0547: teki
+0548: masennus
+0549: viisi
+0550: meillä on
+0551: miettiä
+0552: tuntua
+0553: ymmärtää
+0554: kahden
+0555: kauan
+0556: ahdistusta
+0557: mutta ei
+0558: toista
+0559: ongelmia
+0560: näkyy
+0561: josta
+0562: iholle
+0563: syystä
+0564: sen jälkeen
+0565: on aivan
+0566: että olen
+0567: töihin
+0568: vie
+0569: muuttaa
+0570: on usein
+0571: jokainen
+0572: ajatuksia
+0573: suhteen
+0574: huomaa
+0575: myötä
+0576: hyvä terveys kuvat
+0577: tee
+0578: ihmisillä
+0579: tytär
+0580: stressiä
+0581: tutkimusten mukaan
+0582: terveys kuvat omat
+0583: tarvitaan
+0584: omaan
+0585: käytän
+0586: pakko
+0587: myöhemmin
+0588: oletko
+0589: alkanut
+0590: ajatukset
+0591: oikeastaan
+0592: lähteet hyvä
+0593: verran
+0594: kannalta
+0595: hyvän
+0596: kai
+0597: helppo
+0598: tyttäreni
+0599: parisuhteessa
+0600: lähteet hyvä terveys
+0601: riittää
+0602: naisen
+0603: kymmenen
+0604: paino
+0605: silloin kun
+0606: sinne
+0607: ajattelee
+0608: totta
+0609: ajattelin
+0610: töitä
+0611: milloin
+0612: tosi
+0613: toiset
+0614: jos ei
+0615: työn
+0616: kuva
+0617: alla
+0618: johon
+0619: olisin
+0620: masennuksen
+0621: surun
+0622: minulla oli
+0623: hyvää viikonloppua
+0624: lisätä
+0625: meni
+0626: tahansa
+0627: parantaa
+0628: päätin
+0629: joissa
+0630: tutkimuksessa
+0631: lainkaan
+0632: sydämen
+0633: on tärkeää
+0634: saattaa olla
+0635: tutkimuksissa
+0636: lääkäri
+0637: lähteä
+0638: tykkään
+0639: itseni
+0640: mieheni
+0641: ja sitten
+0642: rakas vera
+0643: työ
+0644: muuten
+0645: vettä
+0646: ruokavalio
+0647: kirjan
+0648: kauneus
+0649: tyttäremme
+0650: on aina
+0651: molemmat
+0652: tunnetta
+0653: kestää
+0654: päivää
+0655: hyväksi
+0656: huonosti
+0657: monia
+0658: marjoja
+0659: vaatteita
+0660: tällä hetkellä
+0661: keski
+0662: laittaa
+0663: asian
+0664: jaksa
+0665: vaiheessa
+0666: kille
+0667: eivät ole
+0668: lähteet hyvä terveys kuvat
+0669: asiasta
+0670: sellainen
+0671: täytyy
+0672: niihin
+0673: kaikkea
+0674: mihin
+0675: kuukauden
+0676: emme
+0677: ja on
+0678: voi myös
+0679: ulos
+0680: pitänyt
+0681: tulisi
+0682: kokemus
+0683: tuntee
+0684: muuttuu
+0685: tunnistaa
+0686: voi tulla
+0687: neljä
+0688: tapahtuu
+0689: toimi
+0690: toiselle
+0691: takana
+0692: riittävästi
+0693: unen
+0694: tyttäremme kuoli
+0695: käynyt
+0696: olevansa
+0697: tunnen
+0698: anteeksi
+0699: jossakin
+0700: ikään kuin
+0701: vera tyttäremme
+0702: energiaa
+0703: tekemään
+0704: itsetunto
+0705: jolla
+0706: yritän
+0707: niinpä
+0708: hyvää viikonloppua kaikille
+0709: vera tyttäremme kuoli
+0710: niissä
+0711: sekin
+0712: ihminen ei
+0713: ongelma
+0714: siltä
+0715: puhutaan
+0716: nousee
+0717: psykologi
+0718: kokea
+0719: jotka ovat
+0720: kauneus terveys
+0721: päin
+0722: ensimmäinen
+0723: ihmisellä
+0724: varmaankin
+0725: surutyötä
+0726: saisi
+0727: kovasti
+0728: sinua
+0729: avulla
+0730: vaatii
+0731: naisten
+0732: ei kannata
+0733: minulla ei
+0734: olisi hyvä
+0735: kuoli yllättäen
+0736: saavat
+0737: käytetään
+0738: minuuttia
+0739: mukana
+0740: huomiota
+0741: samaa
+0742: sanotaan
+0743: esiin
+0744: opiskelija
+0745: kumppani
+0746: vaikutus
+0747: voi saada
+0748: nyt on
+0749: laskee
+0750: ostin
+0751: kukaan
+0752: suoliston
+0753: olen ollut
+0754: voi vaikuttaa
+0755: paha
+0756: mahdollista
+0757: olemaan
+0758: tiedän
+0759: tietysti
+0760: kova
+0761: hiukset
+0762: tietty
+0763: väsymys
+0764: kirjoittanut
+0765: enemmän kuin
+0766: voi tehdä
+0767: iän
+0768: muutama
+0769: muistaa
+0770: tyytyväinen
+0771: oireet
+0772: lukea
+0773: kaunis
+0774: surua
+0775: hänet
+0776: ei saa
+0777: ei enää
+0778: pitäisi olla
+0779: älä
+0780: toimintaa
+0781: kuka
+0782: todennäköisesti
+0783: suhde
+0784: elämästä
+0785: lukenut
+0786: olla myös
+0787: tulevat
+0788: ihanaa
+0789: syönyt
+0790: häpeää
+0791: molekyylibiologian
+0792: tänä vuonna
+0793: kaksi kertaa
+0794: yliopiston
+0795: joista
+0796: tilanteessa
+0797: et
+0798: parempi
+0799: löytää
+0800: nostaa
+0801: alussa
+0802: väsynyt
+0803: häpeä
+0804: on se että
+0805: näistä
+0806: pidetään
+0807: yleistä
+0808: nähdä
+0809: käyttö
+0810: jättää
+0811: kumppanin
+0812: joka päivä
+0813: en tiedä
+0814: kauneus terveys kuvat
+0815: ruoan
+0816: omien
+0817: itseäni
+0818: jäädä
+0819: tavallaan
+0820: vuosi
+0821: tarkoitus
+0822: kuukautta
+0823: verenpaine
+0824: löydetty
+0825: merkki
+0826: rasvaa
+0827: silloin tällöin
+0828: ohi
+0829: vahvistaa
+0830: onhan
+0831: kello
+0832: päivittäin
+0833: jatkuva
+0834: rauhoittaa
+0835: professori
+0836: alkavat
+0837: siinä on
+0838: voi aiheuttaa
+0839: tuntuu että
+0840: yhteen
+0841: tehdään
+0842: aiemmin
+0843: juttu
+0844: tunteen
+0845: viikkoa
+0846: kävin
+0847: löytyy
+0848: jonkun
+0849: ensi
+0850: mahdollisimman
+0851: yhtenä
+0852: riskiä
+0853: vitamiinia
+0854: lapsuuden
+0855: ja hän
+0856: kaikkia
+0857: kaikilla
+0858: loppuun
+0859: eilen
+0860: edessä
+0861: hyvät
+0862: ystävä
+0863: masennukseen
+0864: ihmiselle
+0865: kuolema
+0866: voivat olla
+0867: lähteet kauneus
+0868: sydän ja
+0869: lähteet kauneus terveys
+0870: ensin
+0871: tutkimuksen
+0872: erityisen
+0873: muihin
+0874: asiassa
+0875: sisään
+0876: sisällä
+0877: asiaan
+0878: maailman
+0879: kokenut
+0880: yhteydessä
+0881: tarvitsee
+0882: huolta
+0883: ostaa
+0884: vaatteet
+0885: runsaasti
+0886: onnellinen
+0887: referaatti
+0888: ehkäpä
+0889: aloin
+0890: kun hän
+0891: on yleensä
+0892: molekyylibiologian opiskelija
+0893: se ei ole
+0894: perusteella
+0895: vanhemmat
+0896: jotain
+0897: työtä
+0898: toisin
+0899: keino
+0900: mennyt
+0901: tärkeitä
+0902: vapaa
+0903: viikko
+0904: sinun
+0905: arjen
+0906: helpottaa
+0907: kahvia
+0908: dl
+0909: ole ollut
+0910: elämä on
+0911: sille
+0912: usko
+0913: toimia
+0914: äidin
+0915: hyvinvointia
+0916: käyttänyt
+0917: tutkimus
+0918: kertaa viikossa
+0919: terve ja
+0920: helpommin
+0921: voit
+0922: lääkärin
+0923: kertoi
+0924: muutenkin
+0925: lähes
+0926: ajattelen
+0927: pystyy
+0928: tosin
+0929: seuraa
+0930: tuntui
+0931: vaihdevuodet
+0932: että minulla
+0933: ei tule
+0934: siksi että
+0935: rakas vera tyttäremme
+0936: rakas vera tyttäremme kuoli
+0937: kysyä
+0938: kunnon
+0939: lasten
+0940: kovin
+0941: lapset
+0942: kohti
+0943: estää
+0944: kuntosalilla
+0945: lopuksi
+0946: hänellä on
+0947: tutkijat
+0948: tilanteissa
+0949: minkä
+0950: d
+0951: pahaa
+0952: mekko
+0953: tykkää
+0954: hitaasti
+0955: asioiden
+0956: huomannut
+0957: kasvojen
+0958: samaan
+0959: hoito
+0960: miehet
+0961: pitkä
+0962: päällä
+0963: kolmen
+0964: irti
+0965: tällainen
+0966: ystäväni
+0967: syöminen
+0968: psykoterapeutti
+0969: voide
+0970: ei löydetty
+0971: se voi olla
+0972: lähteet kauneus terveys kuvat
+0973: pieniä
+0974: riski
+0975: aikoinaan
+0976: hyötyä
+0977: täynnä
+0978: kunnossa
+0979: hetken
+0980: kipu
+0981: luen
+0982: ole enää
+0983: tietoa
+0984: tehty
+0985: uskon
+0986: nykyään
+0987: uudelleen
+0988: varmaan
+0989: sanoin
+0990: kävi
+0991: itsekin
+0992: itselle
+0993: joilla
+0994: pexels
+0995: suhteessa
+0996: iloa
+0997: ja sitä
+0998: on vähän
+0999: että ne
+1000: kuoleman jälkeen

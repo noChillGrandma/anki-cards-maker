@@ -33,9 +33,9 @@ def main():
     with open(args.input, 'w', encoding='utf-8') as infile:
         infile.write('')
     
-    print(f"Cleaned text from '{args.input}' has been appended to '{args.output}'")
-    print(f"Added {len(cleaned)} characters to the dataset.")
-    print(f"'{args.input}' has been cleared and is ready for new content.")
+    print(f"✅ Cleaned text from '{args.input}' has been appended to '{args.output}'")
+    print(f"✅ Added {len(cleaned)} characters to the dataset.")
+    print(f"✅ '{args.input}' has been cleared and is ready for new content.")
 
 if __name__ == '__main__':
     main()

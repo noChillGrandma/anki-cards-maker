@@ -60,7 +60,7 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
         print(f"{phrase}: {count}")
 
 # Usage
-file_path = "dataset_clean.txt"  # Replace with your file path
+file_path = "dataset.txt"  # Replace with your file path
 blacklist_file_path = "blacklist.txt"  # Replace with your blacklist file path if available
 min_frequency_threshold = 4  # Minimum frequency threshold (words/phrases with less than this count will be ignored)
 analyze_text(file_path, blacklist_file_path, min_frequency_threshold)

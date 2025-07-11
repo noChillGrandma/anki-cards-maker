@@ -36,32 +36,25 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
     all_3_grams = get_ngrams(text, 3, blacklist)
     all_4_grams = get_ngrams(text, 4, blacklist)
     
-    # Filter by minimum frequency and get top 10
-    most_common_1 = [(phrase, count) for phrase, count in all_1_grams.most_common() if count >= min_frequency][:100]
-    most_common_2 = [(phrase, count) for phrase, count in all_2_grams.most_common() if count >= min_frequency][:100]
-    most_common_3 = [(phrase, count) for phrase, count in all_3_grams.most_common() if count >= min_frequency][:100]
-    most_common_4 = [(phrase, count) for phrase, count in all_4_grams.most_common() if count >= min_frequency][:100]
+    # Combine all n-grams into a single list and filter by minimum frequency
+    all_ngrams = []
+    for ngram_dict in [all_1_grams, all_2_grams, all_3_grams, all_4_grams]:
+        for phrase, count in ngram_dict.items():
+            if count >= min_frequency:
+                all_ngrams.append((phrase, count))
+    
+    # Sort by frequency (descending) and limit to top 1000
+    top_ngrams = sorted(all_ngrams, key=lambda x: x[1], reverse=True)[:1000]
 
     # Write results to file
     output_file = "top_finnish_words.txt"
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("----- Single Words -----\n")
-        for word, count in most_common_1:
-            f.write(f"{word}: {count}\n")
-
-        f.write("\n----- 2-Word Phrases -----\n")
-        for phrase, count in most_common_2:
-            f.write(f"{phrase}: {count}\n")
-
-        f.write("\n----- 3-Word Phrases -----\n")
-        for phrase, count in most_common_3:
-            f.write(f"{phrase}: {count}\n")
-
-        f.write("\n----- 4-Word Phrases -----\n")
-        for phrase, count in most_common_4:
-            f.write(f"{phrase}: {count}\n")
+        f.write("----- Top Words and Phrases -----\n")
+        for position, (phrase, count) in enumerate(top_ngrams, 1):
+            f.write(f"{position:04d}: {phrase}\n")
     
     print(f"✅ Results have been written to '{output_file}'")
+    print(f"✅ Total entries: {len(top_ngrams)}")
 
 # Usage
 file_path = "dataset.txt"  # Replace with your file path

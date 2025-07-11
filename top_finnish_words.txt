@@ -1,0 +1,28 @@
+----- Single Words -----
+ja: 147
+ei: 71
+että: 66
+ole: 36
+tai: 36
+jos: 33
+mutta: 30
+se: 29
+niin: 28
+olla: 25
+
+----- 2-Word Phrases -----
+ei ole: 16
+voi olla: 8
+sukupuoli identiteetin: 8
+z sukupolven: 7
+valviran mukaan: 6
+hän ei: 5
+viime viikolla: 4
+se että: 4
+on paljon: 4
+se ei: 4
+
+----- 3-Word Phrases -----
+sukupuoli identiteetin häiriöiden: 4
+
+----- 4-Word Phrases -----

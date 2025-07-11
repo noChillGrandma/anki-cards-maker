@@ -42,22 +42,26 @@ def analyze_text(file_path, blacklist_file=None, min_frequency=1):
     most_common_3 = [(phrase, count) for phrase, count in all_3_grams.most_common() if count >= min_frequency][:10]
     most_common_4 = [(phrase, count) for phrase, count in all_4_grams.most_common() if count >= min_frequency][:10]
 
-    # Display results
-    print("\nMost Common Words:")
-    for word, count in most_common_1:
-        print(f"{word}: {count}")
+    # Write results to file
+    output_file = "top_finnish_words.txt"
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write("----- Single Words -----\n")
+        for word, count in most_common_1:
+            f.write(f"{word}: {count}\n")
 
-    print("\nMost Common 2-Word Phrases:")
-    for phrase, count in most_common_2:
-        print(f"{phrase}: {count}")
+        f.write("\n----- 2-Word Phrases -----\n")
+        for phrase, count in most_common_2:
+            f.write(f"{phrase}: {count}\n")
 
-    print("\nMost Common 3-Word Phrases:")
-    for phrase, count in most_common_3:
-        print(f"{phrase}: {count}")
+        f.write("\n----- 3-Word Phrases -----\n")
+        for phrase, count in most_common_3:
+            f.write(f"{phrase}: {count}\n")
 
-    print("\nMost Common 4-Word Phrases:")
-    for phrase, count in most_common_4:
-        print(f"{phrase}: {count}")
+        f.write("\n----- 4-Word Phrases -----\n")
+        for phrase, count in most_common_4:
+            f.write(f"{phrase}: {count}\n")
+    
+    print(f"✅ Results have been written to '{output_file}'")
 
 # Usage
 file_path = "dataset.txt"  # Replace with your file path

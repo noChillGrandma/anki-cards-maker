@@ -6,8 +6,8 @@ Number,Finnish,English
 0005,oli,was
 0006,mutta,but
 0007,kun,when
-0008,voi,can
-0009,niin,so
+0008,niin,so
+0009,voi,can
 0010,olen,I am
 0011,tai,or
 0012,en,not
@@ -28,27 +28,27 @@ Number,Finnish,English
 0027,kanssa,with
 0028,vielä,yet
 0029,tämä,this
-0030,vaikka,although
-0031,mitä,what
+0030,mitä,what
+0031,vaikka,although
 0032,paljon,much
 0033,ollut,had been
 0034,ne,they
 0035,aina,always
-0036,täällä,here
-0037,hyvin,very
+0036,hyvin,very
+0037,täällä,here
 0038,jälkeen,after
 0039,ei ole,there is no
 0040,koska,because
 0041,siitä,thence
 0042,ihan,quite
 0043,kaikki,all
-0044,se on,it is
-0045,vaan,but
-0046,eli,or
-0047,olisi,should
+0044,vaan,but
+0045,se on,it is
+0046,olisi,should
+0047,eli,or
 0048,minä,I
-0049,ehkä,perhaps
-0050,vähän,little
+0049,vähän,little
+0050,ehkä,perhaps
 0051,miten,how
 0052,aika,time
 0053,eikä,and not
@@ -58,9 +58,9 @@ Number,Finnish,English
 0057,sillä,for
 0058,kyllä,Yes
 0059,mukaan,by
-0060,niitä,them
-0061,tässä,here
-0062,koko,size
+0060,koko,size
+0061,niitä,them
+0062,tässä,here
 0063,tulee,comes
 0064,siis,therefore
 0065,ennen,before
@@ -71,8 +71,8 @@ Number,Finnish,English
 0070,sekä,mixed
 0071,vuotta,year
 0072,jotka,that
-0073,esimerkiksi,for example
-0074,siihen,thereto
+0073,siihen,thereto
+0074,esimerkiksi,for example
 0075,kuitenkin,however
 0076,olin,I was
 0077,yksi,one
@@ -85,10 +85,10 @@ Number,Finnish,English
 0084,kuten,as
 0085,enemmän,more
 0086,näin,thus
-0087,jonka,whom
-0088,enää,any more
-0089,kertaa,times
-0090,siinä,there
+0087,enää,any more
+0088,jonka,whom
+0089,siinä,there
+0090,kertaa,times
 0091,joku,someone
 0092,vuonna,in
 0093,viime,last
@@ -106,8 +106,8 @@ Number,Finnish,English
 0105,kuvat,images
 0106,pari,couple
 0107,ihminen,man
-0108,noin,about
-0109,onneksi,fortunately
+0108,onneksi,fortunately
+0109,noin,about
 0110,vuoden,year
 0111,voi olla,may be
 0112,olivat,were
@@ -124,8 +124,8 @@ Number,Finnish,English
 0123,sain,I got
 0124,yleensä,usually
 0125,silloin,then
-0126,lähteet,sources
-0127,eivät,not
+0126,eivät,not
+0127,lähteet,sources
 0128,en ole,I am not
 0129,no,Well
 0130,tästä,from here
@@ -133,23 +133,23 @@ Number,Finnish,English
 0132,lähes,nearly
 0133,edelleen,still
 0134,aikana,during
-0135,kolme,three
-0136,siellä,there
-0137,onko,whether
+0135,siellä,there
+0136,onko,whether
+0137,kolme,three
 0138,minua,me
-0139,he,they
-0140,alkaa,start
+0139,alkaa,start
+0140,he,they
 0141,eri,different
 0142,hyvää,good
-0143,tähän,over here
+0143,vai,or
 0144,tuntuu,feel
-0145,vai,or
-0146,oikein,properly
-0147,vasta,only
-0148,koskaan,ever
-0149,ettei,lest
-0150,lisää,more
-0151,osa,part
+0145,tähän,over here
+0146,vasta,only
+0147,oikein,properly
+0148,ettei,lest
+0149,koskaan,ever
+0150,osa,part
+0151,lisää,more
 0152,omat,one's own
 0153,on ollut,has been
 0154,tänään,today
@@ -162,8 +162,8 @@ Number,Finnish,English
 0161,pitäisi,should
 0162,miksi,why
 0163,meillä,at our house
-0164,jota,whom
-0165,mun,my
+0164,mun,my
+0165,jota,whom
 0166,tosi,true
 0167,ilman,free
 0168,etenkin,especially
@@ -174,828 +174,828 @@ Number,Finnish,English
 0173,jotta,so
 0174,takia,because of
 0175,mies,man
-0176,eilen,yesterday
-0177,joka on,that is
+0176,joka on,that is
+0177,eilen,yesterday
 0178,enkä,and not
 0179,saattaa,may
 0180,voisi,could
 0181,meidän,our
 0182,samalla,in the process
 0183,kaiken,all
-0184,me,we
-0185,kannattaa,support
-0186,päivän,day
-0187,muuta,anything else
-0188,nämä,these
-0189,tullut,become
+0184,kannattaa,support
+0185,me,we
+0186,muuta,anything else
+0187,päivän,day
+0188,tullut,become
+0189,nämä,these
 0190,yhtä,equally
-0191,siksi,therefore
-0192,melkein,almost
-0193,tosin,indeed
-0194,tänä,on this
-0195,tämä on,this is
+0191,tämä on,this is
+0192,siksi,therefore
+0193,tänä,on this
+0194,melkein,almost
+0195,tosin,indeed
 0196,niiden,their
-0197,tiedä,know
-0198,ottaa,take
+0197,ottaa,take
+0198,tiedä,know
 0199,mm,mm
-0200,josta,whereof
-0201,muassa,along with
-0202,ihmiset,people
+0200,ihmiset,people
+0201,josta,whereof
+0202,muassa,along with
 0203,muun muassa,inter alia
 0204,sinä,you
 0205,se oli,it was
-0206,löytyy,found
-0207,silti,still
+0206,silti,still
+0207,löytyy,found
 0208,iso,big
-0209,ihana,wonderful
-0210,se että,the fact that
-0211,oma,own
+0209,se että,the fact that
+0210,oma,own
+0211,ihana,wonderful
 0212,minulla on,I have
-0213,niistä,there
-0214,oman,one's own
-0215,saada,get
-0216,päälle,on
-0217,asti,until
-0218,toisen,second
-0219,olet,are
+0213,saada,get
+0214,päälle,on
+0215,oman,one's own
+0216,niistä,there
+0217,olet,are
+0218,asti,until
+0219,toisen,second
 0220,saanut,walked
 0221,uusi,new
-0222,yhdessä,together
-0223,viikon,week
-0224,jotenkin,somehow
-0225,monta,various
-0226,yhden,one
-0227,voivat,can
-0228,miehen,male
-0229,ukin,Ukin
-0230,vaikuttaa,influence
-0231,mennä,go
-0232,luvulla,in the century
-0233,menee,goes
-0234,kotona,at home
-0235,hän on,he is
-0236,se ei,it does not
-0237,kuvat omat,Pictures of your own
-0238,siitä että,for
-0239,sinne,there
-0240,aikaan,in time
-0241,asioita,things like that
-0242,ja sitten,and then
-0243,luvun,chapter
-0244,sai,tired
-0245,helsingin,Helsinki
-0246,muuten,otherwise
-0247,täysin,completely
+0222,jotenkin,somehow
+0223,yhdessä,together
+0224,menee,goes
+0225,viikon,week
+0226,monta,various
+0227,yhden,one
+0228,mennä,go
+0229,voivat,can
+0230,miehen,male
+0231,ukin,Ukin
+0232,vaikuttaa,influence
+0233,luvulla,in the century
+0234,hän on,he is
+0235,kotona,at home
+0236,siitä että,for
+0237,sinne,there
+0238,aikaan,in time
+0239,asioita,things like that
+0240,se ei,it does not
+0241,kuvat omat,Pictures of your own
+0242,muuten,otherwise
+0243,helsingin,Helsinki
+0244,ja sitten,and then
+0245,luvun,chapter
+0246,täysin,completely
+0247,asia,thing
 0248,sanoo,says
-0249,asia,thing
+0249,sai,tired
 0250,olevan,to be
 0251,nainen,woman
 0252,päivää,day
-0253,läpi,through
-0254,ja sen,and its
-0255,voin,butter
-0256,tuntia,hours
-0257,kuinka,how
-0258,päästä,get
+0253,ja sen,and its
+0254,läpi,through
+0255,kuinka,how
+0256,voin,butter
+0257,päästä,get
+0258,tuntia,hours
 0259,elämä,life
 0260,uuden,new
-0261,haluan,I want
-0262,ei ollut,was not
-0263,ensi,next
-0264,piti,kept
-0265,takaisin,back
-0266,varmasti,certainly
-0267,mistä,whence
-0268,osaa,know
-0269,niin että,so that
-0270,sanoa,say
-0271,vanha,old
-0272,käyttää,use
-0273,olemme,are
-0274,varmaan,will
-0275,kaikille,to all
-0276,päivänä,on day
-0277,alkoi,started
-0278,on myös,is also
-0279,nopeasti,quickly
+0261,varmasti,certainly
+0262,haluan,I want
+0263,ei ollut,was not
+0264,ensi,next
+0265,piti,kept
+0266,mistä,whence
+0267,sanoa,say
+0268,takaisin,back
+0269,osaa,know
+0270,varmaan,will
+0271,niin että,so that
+0272,vanha,old
+0273,käyttää,use
+0274,olemme,are
+0275,alkoi,started
+0276,kaikille,to all
+0277,päivänä,on day
+0278,nopeasti,quickly
+0279,on myös,is also
 0280,jotakin,something
 0281,ihmisen,human
 0282,mä,me
 0283,näyttää,show
-0284,lopulta,eventually
-0285,uutta,new
-0286,kiinni,Closed
-0287,jäi,left
-0288,kaunis,beautiful
-0289,kotiin,home
-0290,vuotta sitten,a year ago
-0291,viikolla,during the week
-0292,paikka,place
-0293,kaikkea,everything
-0294,näitä,these
-0295,kiva,nice
-0296,jolloin,when
+0284,kiinni,Closed
+0285,lopulta,eventually
+0286,uutta,new
+0287,kaunis,beautiful
+0288,jäi,left
+0289,kiva,nice
+0290,kotiin,home
+0291,vuotta sitten,a year ago
+0292,viikolla,during the week
+0293,paikka,place
+0294,kiitos,thanks
+0295,näitä,these
+0296,kaikkea,everything
 0297,olisin,I would be
-0298,ensin,initially
-0299,kautta,through
-0300,kiitos,thanks
-0301,että se,that
-0302,tekee,doing
+0298,kautta,through
+0299,jolloin,when
+0300,ensin,initially
+0301,tekee,doing
+0302,että se,that
 0303,tavalla,in a manner of
 0304,paitsi,except
-0305,olo,feeling
-0306,kuva,picture
+0305,kuva,picture
+0306,olo,feeling
 0307,kuuluu,belong
 0308,tunne,feeling
 0309,teen,do
 0310,minusta,me
 0311,sanoi,quoth
-0312,tulla,become
-0313,on niin,is so
-0314,pitkään,long
-0315,käydä,visit
-0316,jää,ice
-0317,on jo,is already
-0318,helposti,easily
-0319,alle,under
-0320,ollaan,to be
-0321,muita,others
-0322,tykkään,I like
-0323,moni,multi
-0324,aiemmin,previously
+0312,jää,ice
+0313,tulla,become
+0314,käydä,visit
+0315,on niin,is so
+0316,pitkään,long
+0317,alle,under
+0318,moni,multi
+0319,on jo,is already
+0320,helposti,easily
+0321,ollaan,to be
+0322,aiemmin,previously
+0323,muita,others
+0324,tykkään,I like
 0325,tarvitse,need
-0326,uusia,renew
-0327,tietysti,Of course
-0328,mieli,mind
-0329,missä,where
-0330,antaa,give
-0331,ihmisiä,people
-0332,tein,did
-0333,melko,quite
-0334,hiukan,a little
-0335,auttaa,help
-0336,mieltä,mind
-0337,elämän,life
-0338,kertoo,tells
-0339,alla,below
+0326,missä,where
+0327,uusia,renew
+0328,tietysti,Of course
+0329,antaa,give
+0330,mieli,mind
+0331,mieltä,mind
+0332,ihmisiä,people
+0333,tein,did
+0334,melko,quite
+0335,hiukan,a little
+0336,auttaa,help
+0337,kertoo,tells
+0338,alla,below
+0339,mielestäni,I think
 0340,liikaa,over-
-0341,muut,other
-0342,ostin,I bought
-0343,käy,run
-0344,meni,went
-0345,mikään,any
-0346,johon,to which
-0347,mielestäni,I think
-0348,ihanaa,lovely
-0349,esim,e.g
-0350,minut,me
-0351,ukki,grandpa
+0341,elämän,life
+0342,mikään,any
+0343,muut,other
+0344,esim,e.g
+0345,meni,went
+0346,ostin,I bought
+0347,käy,run
+0348,johon,to which
+0349,ihanaa,lovely
+0350,vaikea,difficult
+0351,minut,me
 0352,jonkun,somebody
-0353,vuosi,year
-0354,vaikea,difficult
+0353,ukki,grandpa
+0354,vuosi,year
 0355,joista,whom
-0356,äiti,mother
-0357,muutaman,a few
+0356,muutaman,a few
+0357,äiti,mother
 0358,syödä,eat
-0359,mieleen,in mind
-0360,illalla,in the evening
+0359,ensimmäinen,first
+0360,mieleen,in mind
 0361,hän oli,he was
-0362,elämää,life
-0363,ensimmäinen,first
-0364,tänne,here
-0365,uudelleen,again
-0366,mulla,me
-0367,huolimatta,despite
-0368,kahden,the two of you
+0362,tänne,here
+0363,illalla,in the evening
+0364,mulla,me
+0365,elämää,life
+0366,kahden,the two of you
+0367,uudelleen,again
+0368,tehnyt,done
 0369,hetkellä,at a time of
-0370,päätin,I decided
-0371,mutta ei,but not
-0372,saan,I get
-0373,olleet,was
+0370,huolimatta,despite
+0371,toki,Sure
+0372,päätin,I decided
+0373,mutta ei,but not
 0374,on se,is it
-0375,haluaa,wishes
-0376,tehnyt,done
-0377,ruokaa,food
-0378,yhtään,any
-0379,vastaan,against
-0380,sama,same
-0381,tällä kertaa,for now
-0382,mukana,with
-0383,aamulla,in the morning
-0384,mutta se,but it
-0385,toki,Sure
-0386,kävin,I went to
-0387,ei voi,cannot
-0388,ikinä,ever
-0389,sijaan,in exchange for
-0390,halua,desire
+0375,sama,same
+0376,olleet,was
+0377,saan,I get
+0378,mukana,with
+0379,haluaa,wishes
+0380,vastaan,against
+0381,yhtään,any
+0382,ruokaa,food
+0383,tällä kertaa,for now
+0384,et,not
+0385,ei voi,cannot
+0386,ikinä,ever
+0387,kävin,I went to
+0388,aamulla,in the morning
+0389,suomessa,in Finland
+0390,sijaan,in exchange for
 0391,koko ajan,all the time
-0392,kuitenkaan,however
-0393,oikeastaan,really
-0394,suomessa,in Finland
-0395,et,not
-0396,heidän,their
-0397,tunnin,-hour
-0398,ja nyt,and now
-0399,kukaan,anyone
-0400,sisällä,indoors
-0401,yksin,alone
-0402,kirja,book
-0403,suomen,Finnish
-0404,sellainen,such
-0405,tietää,know
-0406,edessä,in front
-0407,omaa,one's own
-0408,häntä,him
+0392,mutta se,but it
+0393,halua,desire
+0394,kuitenkaan,however
+0395,kukaan,anyone
+0396,oikeastaan,really
+0397,suomen,Finnish
+0398,heidän,their
+0399,ja nyt,and now
+0400,tietää,know
+0401,sellainen,such
+0402,sisällä,indoors
+0403,tunnin,-hour
+0404,edessä,in front
+0405,kirja,book
+0406,yksin,alone
+0407,häntä,him
+0408,omaa,one's own
 0409,muiden,others
-0410,kuoli,died in
-0411,tuntui,felt like
-0412,joissa,where
-0413,hieman,slightly
-0414,täynnä,full
-0415,meille,us
-0416,niin paljon,that much
-0417,älä,do not
-0418,elää,live
-0419,nähdä,see
-0420,suuri,large
-0421,myöhemmin,later
-0422,yhä,still
-0423,toisaalta,secondly
-0424,vuoksi,because of
-0425,erityisesti,particularly
-0426,ostaa,buy
-0427,nyt on,now is
+0410,joissa,where
+0411,hieman,slightly
+0412,täynnä,full
+0413,älä,do not
+0414,kuoli,died in
+0415,tuntui,felt like
+0416,myöhemmin,later
+0417,meille,us
+0418,niin paljon,that much
+0419,yhä,still
+0420,elää,live
+0421,nyt on,now is
+0422,suuri,large
+0423,erityisesti,particularly
+0424,nähdä,see
+0425,toisaalta,secondly
+0426,vuoksi,because of
+0427,ostaa,buy
 0428,onkin,it is
 0429,vuotias,aged
 0430,takana,double cloth
 0431,anna,let
-0432,asiaa,thing
-0433,emme,we do not
+0432,emme,we do not
+0433,asiaa,thing
 0434,lähinnä,mainly
 0435,kuvia,pics
 0436,kirkon,church
-0437,näkyy,appears
-0438,verran,about
-0439,alussa,at the beginning of
+0437,verran,about
+0438,alussa,at the beginning of
+0439,näkyy,appears
 0440,käynyt,visited
-0441,mukava,comfortable
-0442,eniten,most
-0443,samoin,likewise
-0444,löysin,I found
-0445,kunnes,until
-0446,kirjan,book
-0447,neljä,four
-0448,juttu,thing
-0449,täytyy,must
-0450,pakko,forced
-0451,paras,best
-0452,on hyvä,is good
-0453,mummin,granny
-0454,mielestä,with
-0455,ruoka,food
-0456,pidän,i like
-0457,voinut,may
-0458,muutama,one or two
-0459,vanhan,old
-0460,maailman,world
+0441,eniten,most
+0442,paras,best
+0443,mukava,comfortable
+0444,täytyy,must
+0445,pakko,forced
+0446,kunnes,until
+0447,samoin,likewise
+0448,löysin,I found
+0449,kirjan,book
+0450,on hyvä,is good
+0451,neljä,four
+0452,juttu,thing
+0453,mielestä,with
+0454,voinut,may
+0455,pidän,i like
+0456,mummin,granny
+0457,ruoka,food
+0458,oikeasti,for real
+0459,maailman,world
+0460,muutama,one or two
 0461,mutta en,but I don't
-0462,joiden,whose
-0463,oikeasti,for real
-0464,naisen,woman
-0465,en tiedä,I don't know
-0466,riittää,suffice
-0467,puoli,half
-0468,mökillä,in the cottage
+0462,riittää,suffice
+0463,vanhan,old
+0464,joiden,whose
+0465,oon,I'm on the way
+0466,naisen,woman
+0467,en tiedä,I don't know
+0468,puoli,half
 0469,paremmin,better
-0470,viikossa,per week
+0470,mökillä,in the cottage
 0471,kohti,towards
-0472,pienen,small
-0473,mietin,I was wondering
-0474,on vain,is only
-0475,tärkeää,important
-0476,oon,I'm on the way
-0477,kai,probably
-0478,tänä vuonna,this year
-0479,toimii,work
-0480,löytyi,found
-0481,erittäin,very
-0482,vähemmän,less
-0483,molemmat,both
+0472,viikossa,per week
+0473,kai,probably
+0474,pienen,small
+0475,tänä vuonna,this year
+0476,on vain,is only
+0477,erittäin,very
+0478,mietin,I was wondering
+0479,tärkeää,important
+0480,toimii,work
+0481,löytyi,found
+0482,tule,come
+0483,vähemmän,less
 0484,mihin,where
-0485,tule,come
-0486,väliin,between
-0487,on aina,is always
+0485,päällä,on
+0486,on aina,is always
+0487,molemmat,both
 0488,aiheuttaa,cause
-0489,päällä,on
-0490,vettä,water
-0491,ne ovat,they are
-0492,kokonaan,wholly
-0493,löytää,find
-0494,vieressä,next to
+0489,väliin,between
+0490,tiedän,I know
+0491,vettä,water
+0492,kauan,long
+0493,kokonaan,wholly
+0494,ne ovat,they are
 0495,viikkoa,a week
-0496,tiedän,I know
-0497,kauan,long
-0498,viisi,five
-0499,kirkko,church
-0500,erilaisia,different sorts of
-0501,suoraan,directly
-0502,kymmenen,ten
-0503,vuosia,for years
-0504,päässä,off
-0505,itsensä,itself
-0506,keskellä,in the middle
-0507,täältä,from here
-0508,ihmisten,man
-0509,parin,pair
-0510,kuka,Who
+0496,löytää,find
+0497,vieressä,next to
+0498,suoraan,directly
+0499,viisi,five
+0500,kymmenen,ten
+0501,keskellä,in the middle
+0502,kirkko,church
+0503,erilaisia,different sorts of
+0504,kuka,Who
+0505,vuosia,for years
+0506,päässä,off
+0507,itsensä,itself
+0508,täältä,from here
+0509,ihmisten,man
+0510,parin,pair
 0511,vanhoja,old
-0512,on nyt,is now
+0512,olis,would
 0513,lopuksi,finally
-0514,ohi,past
-0515,itseään,itself
-0516,olis,would
+0514,on nyt,is now
+0515,ohi,past
+0516,itseään,itself
 0517,isä,father
 0518,mummi,grandma
-0519,ihon,cutaneous
-0520,aurinko,sun
-0521,ajattelin,I was thinking about
-0522,ulos,out
-0523,muista,in mind
-0524,kolmen,three
-0525,jokainen,every
-0526,kuukauden,monthly
+0519,muista,in mind
+0520,ihon,cutaneous
+0521,ulos,out
+0522,aurinko,sun
+0523,ajattelin,I was thinking about
+0524,asiat,things
+0525,kuukauden,monthly
+0526,kolmen,three
 0527,enemmän kuin,over
-0528,asiat,things
-0529,pieniä,chop
-0530,voisin,I could
-0531,rakastan,I love
-0532,elämään,in life
-0533,vuotiaana,at the age of
-0534,lähteet kuvat omat,Sources pictures of your own
-0535,syy,reason
-0536,varten,for
-0537,tarkoittaa,mean
-0538,monet,many
-0539,minä olen,I am
-0540,voidaan,can
-0541,sieltä,from there
-0542,liittyy,associated with
-0543,suurin,major
-0544,kovin,very
-0545,kunnolla,properly
-0546,ravintola,restaurant
-0547,niin kuin,as
-0548,on tullut,has become
+0528,jokainen,every
+0529,voisin,I could
+0530,pieniä,chop
+0531,elämään,in life
+0532,rakastan,I love
+0533,varten,for
+0534,vuotiaana,at the age of
+0535,lähteet kuvat omat,Sources pictures of your own
+0536,syy,reason
+0537,voidaan,can
+0538,sieltä,from there
+0539,tarkoittaa,mean
+0540,monet,many
+0541,suurin,major
+0542,minä olen,I am
+0543,liittyy,associated with
+0544,niin kuin,as
+0545,on tullut,has become
+0546,kovin,very
+0547,sitä että,that
+0548,mikä on,what is
 0549,tehty,made
-0550,ollenkaan,at all
-0551,sitä että,that
-0552,mikä on,what is
+0550,kunnolla,properly
+0551,ravintola,restaurant
+0552,ollenkaan,at all
 0553,lähteä,go
-0554,sopii,fits
-0555,pian,soon
-0556,tällä hetkellä,currently
-0557,on hyvin,is very well
-0558,useita,multiple
-0559,huono,bad
-0560,se voi,it can
-0561,talon,house
-0562,sekin,too
-0563,ihanan,lovely
-0564,oleva,existent
-0565,ensimmäisen,first
-0566,kaunista,beautiful
-0567,apua,Help
-0568,minkä,what
+0554,tällä hetkellä,currently
+0555,sopii,fits
+0556,on hyvin,is very well
+0557,huono,bad
+0558,pian,soon
+0559,oleva,existent
+0560,useita,multiple
+0561,minkä,what
+0562,talon,house
+0563,se voi,it can
+0564,ensimmäisen,first
+0565,sekin,too
+0566,ihanan,lovely
+0567,kaunista,beautiful
+0568,apua,Help
 0569,pitkin,along
 0570,päivässä,per day
-0571,toiseen,to another
-0572,totta,true
-0573,parasta,best of all
-0574,hänelle,him
-0575,jotkut,some
-0576,kesän,summer
-0577,huomasin,I noticed
-0578,helppo,easy
-0579,sen jälkeen,then
-0580,mennään,let's go
-0581,teki,made
-0582,tietenkin,Of course
-0583,on aika,It's time
-0584,ulkona,outdoors
-0585,siltä,bridge
-0586,hyviä,good
-0587,yllättävän,surprisingly
-0588,pääosin,mainly
-0589,hänellä,on his or her
+0571,samaa,the same
+0572,helppo,easy
+0573,totta,true
+0574,huomasin,I noticed
+0575,sen jälkeen,then
+0576,hänelle,him
+0577,jotkut,some
+0578,kesän,summer
+0579,toiseen,to another
+0580,teki,made
+0581,parasta,best of all
+0582,on aika,It's time
+0583,mennään,let's go
+0584,tietenkin,Of course
+0585,ulkona,outdoors
+0586,siltä,bridge
+0587,hyviä,good
+0588,yllättävän,surprisingly
+0589,kasvaa,grow
 0590,kävi,run
-0591,kasvaa,grow
-0592,samaa,the same
-0593,oletko,Are you
-0594,mukavaa,nice
-0595,yllättäen,surprisingly
-0596,kirjoittaa,write
-0597,näistä,of these
-0598,tarpeeksi,enough
-0599,eteenpäin,ahead
-0600,olimme,We were
-0601,ei tarvitse,does not need
+0591,laittaa,put
+0592,pääosin,mainly
+0593,hänellä,on his or her
+0594,tarpeeksi,enough
+0595,kirjoittaa,write
+0596,mukavaa,nice
+0597,oletko,Are you
+0598,pääsee,get off
+0599,näistä,of these
+0600,yllättäen,surprisingly
+0601,meillä on,We have
 0602,on paljon,There is a lot of
-0603,meillä on,We have
-0604,laittaa,put
-0605,pääsee,get off
-0606,hyvän,good
-0607,niihin,on them
-0608,on vielä,there is still
-0609,muutenkin,as it is
-0610,jossain,somewhere
-0611,toimi,action
-0612,tunteita,feelings
+0603,eteenpäin,ahead
+0604,olimme,We were
+0605,ei tarvitse,does not need
+0606,muutenkin,as it is
+0607,jossain,somewhere
+0608,hyvän,good
+0609,niihin,on them
+0610,on vielä,there is still
+0611,tunteita,feelings
+0612,mulle,to me
 0613,ennen kuin,before
-0614,nimi,name
-0615,mulle,to me
+0614,toimi,action
+0615,nimi,name
 0616,pitkä,long
 0617,lähellä,near
-0618,itselleni,for myself
-0619,hän ei,she does not
-0620,mutta nyt,but now
-0621,kesällä,in summer
-0622,lukea,read
+0618,lukea,read
+0619,mutta nyt,but now
+0620,itselleni,for myself
+0621,hän ei,she does not
+0622,kesällä,in summer
 0623,siihen että,for
-0624,nykyisin,today
+0624,ainakaan,at least not
 0625,aluksi,at first
-0626,auki,open
-0627,tee,tea
-0628,hänet,him
-0629,täällä ja,here and
-0630,tapahtuu,occur
+0626,nykyisin,today
+0627,tapahtuu,occur
+0628,auki,open
+0629,omaan,in one's own
+0630,hänet,him
 0631,määrä,number
-0632,ainakaan,at least not
-0633,vaatteita,clothes
-0634,omaan,in one's own
-0635,joka päivä,every day
+0632,tee,tea
+0633,täällä ja,here and
+0634,puolella,on the side of
+0635,vaatteita,clothes
 0636,sen sijaan,instead
-0637,etten,not
-0638,voit,you can
-0639,parempi,better
-0640,aikoinaan,once
-0641,tilaa,Vacancy
-0642,itseni,myself
-0643,että hän,that he
-0644,puolella,on the side of
-0645,alkuun,to the top
-0646,mielessä,in view
+0637,joka päivä,every day
+0638,parempi,better
+0639,että hän,that he
+0640,etten,not
+0641,voit,you can
+0642,mielessä,in view
+0643,aikoinaan,once
+0644,hetken,for a moment
+0645,tilaa,Vacancy
+0646,itseni,myself
 0647,että en,that I don't
-0648,tällöin,here
-0649,kyse,the point of view of
-0650,jäänyt,remaining
-0651,hetken,for a moment
-0652,ehdottomasti,absolutely
-0653,ja on,and is
-0654,kaikkia,all
-0655,ympäri,around
-0656,toista,to another
-0657,loppuun,out
-0658,sinua,you
-0659,kertoa,tell
-0660,ajatus,idea
-0661,että olen,that I am
+0648,alkuun,to the top
+0649,tällöin,here
+0650,kyse,the point of view of
+0651,ehdottomasti,absolutely
+0652,jäänyt,remaining
+0653,kertoa,tell
+0654,ja on,and is
+0655,kaikkia,all
+0656,tilanne,situation
+0657,että olen,that I am
+0658,toista,to another
+0659,päin,towards
+0660,ympäri,around
+0661,ajatella,think about
 0662,yhteen,together
-0663,päin,towards
-0664,ajatella,think about
-0665,tilanne,situation
-0666,käytän,I will use
-0667,pitkän,long
-0668,vuosien,over the years
-0669,vaikkapa,say
-0670,joko,either
-0671,viikko,week
-0672,monia,many
-0673,kuvassa,in the picture
-0674,muru,sugar
-0675,seuraavaksi,next
-0676,terveys,health
-0677,kun on,when it is
-0678,toisin,otherwise
-0679,jokin,one
-0680,perheen,family
-0681,meitä,us
-0682,on kuitenkin,However
-0683,tärkeä,important
-0684,viimeksi,last
-0685,välissä,between
-0686,taikka,or
-0687,kesänä,in the summer
-0688,kuvan,image
-0689,jossa on,with
-0690,saman,the same
-0691,rakas,love
+0663,loppuun,out
+0664,sinua,you
+0665,ajatus,idea
+0666,vuosien,over the years
+0667,vaikkapa,say
+0668,käytän,I will use
+0669,viikko,week
+0670,pitkän,long
+0671,kun on,when it is
+0672,joko,either
+0673,monia,many
+0674,meitä,us
+0675,terveys,health
+0676,kuvassa,in the picture
+0677,muru,sugar
+0678,on kuitenkin,However
+0679,toisin,otherwise
+0680,välissä,between
+0681,seuraavaksi,next
+0682,saman,the same
+0683,jokin,one
+0684,perheen,family
+0685,tärkeä,important
+0686,kuvan,image
+0687,taikka,or
+0688,viimeksi,last
+0689,kesänä,in the summer
+0690,vaiheessa,in the stage of
+0691,jossa on,with
 0692,jolla,whereby
-0693,kanssa ja,with
-0694,sinulla,you have
-0695,syö,eat
-0696,on aivan,is just right
-0697,saimme,We got
-0698,samaan,in the same
-0699,vuosina,in the years
-0700,lääkäri,doctor
-0701,vaiheessa,in the stage of
-0702,euroa,euro
-0703,yrittää,try
-0704,on ihan,is just right
-0705,koska se,because it
-0706,pidä,keep
-0707,tapa,way
-0708,monesti,often
-0709,odottaa,expect
-0710,nimittäin,namely
-0711,että on,that is
-0712,tuon,that
-0713,muistan,I remember
-0714,kohta,paragraph
+0693,rakas,love
+0694,kanssa ja,with
+0695,tuon,that
+0696,samaan,in the same
+0697,sinulla,you have
+0698,syö,eat
+0699,on aivan,is just right
+0700,saimme,We got
+0701,on ihan,is just right
+0702,vuosina,in the years
+0703,lääkäri,doctor
+0704,euroa,euro
+0705,yrittää,try
+0706,että on,that is
+0707,odottaa,expect
+0708,koska se,because it
+0709,tapa,way
+0710,kohta,paragraph
+0711,monesti,often
+0712,pidä,keep
+0713,myötä,with
+0714,nimittäin,namely
 0715,sille,for
-0716,kerta,time
-0717,syön,i eat
-0718,myötä,with
+0716,omasta,on one's own
+0717,muistan,I remember
+0718,kerta,time
 0719,ilmeisesti,apparently
-0720,puhua,talk
-0721,nauttia,have
-0722,rauhassa,in peace
-0723,turun,Turku
-0724,nautin,I enjoy
-0725,ja minä,and I
-0726,omasta,on one's own
-0727,lapsi,child
-0728,elämässä,in life
-0729,anteeksi,Sorry
-0730,niissä,in them
-0731,sellaista,like that
-0732,pientä,small
-0733,vie,take
-0734,omia,appropriate
-0735,tapauksessa,in case of
-0736,kannattaisi,should
-0737,töihin,at work
-0738,syystä,justly
-0739,töissä,at work
-0740,hei,Hello
-0741,jonkin,some
-0742,joulun,Christmas
-0743,sinun,your
-0744,tunteet,feelings
-0745,jos ei,if not
-0746,kovasti,hard
-0747,mennyt,gone
-0748,asian,The matter can be done by the matter
-0749,kuoleman,deadly
-0750,alkanut,started
-0751,salon,salon
-0752,tekemään,done
-0753,mielen,mind
-0754,kunhan,as long as
-0755,ainoa,only
+0720,syön,i eat
+0721,puhua,talk
+0722,nauttia,have
+0723,rauhassa,in peace
+0724,lapsi,child
+0725,elämässä,in life
+0726,turun,Turku
+0727,nautin,I enjoy
+0728,jos ei,if not
+0729,ja minä,and I
+0730,töissä,at work
+0731,omia,appropriate
+0732,anteeksi,Sorry
+0733,niissä,in them
+0734,töihin,at work
+0735,kovasti,hard
+0736,vie,take
+0737,sellaista,like that
+0738,pientä,small
+0739,tapauksessa,in case of
+0740,syystä,justly
+0741,kannattaisi,should
+0742,pitänyt,kept
+0743,hei,Hello
+0744,jonkin,some
+0745,joulun,Christmas
+0746,mennyt,gone
+0747,sinun,your
+0748,ainoa,only
+0749,alkanut,started
+0750,tunteet,feelings
+0751,tekemään,done
+0752,asian,The matter can be done by the matter
+0753,kuoleman,deadly
+0754,salon,salon
+0755,ei enää,no longer
 0756,milloin,When
-0757,olikin,it was
-0758,pitänyt,kept
+0757,mielen,mind
+0758,kunhan,as long as
 0759,sisälle,inside
-0760,ei enää,no longer
-0761,vanhaa,old
-0762,ihmistä,man
-0763,ja sitä,and that
-0764,aikaisemmin,earlier
-0765,oik,right
-0766,keväällä,in spring
-0767,lähtee,leave
-0768,kokeilla,try out
-0769,aion,I will
+0760,olikin,it was
+0761,varsinkin,especially
+0762,ja sitä,and that
+0763,vanhaa,old
+0764,ihmistä,man
+0765,lähtee,leave
+0766,aikaisemmin,earlier
+0767,mahdollista,possible
+0768,onhan,after all
+0769,oik,right
 0770,nähnyt,perceivedly seen
-0771,joka oli,that was
-0772,pikku,little
-0773,onhan,after all
-0774,on että,it is that
-0775,minä en,I don't
-0776,suhteen,regarding
-0777,varsinkin,especially
-0778,asuu,live
-0779,mahdollista,possible
-0780,tyytyväinen,pleased
-0781,muuttaa,change
-0782,aloin,I started
-0783,siskon,sister
+0771,keväällä,in spring
+0772,joka oli,that was
+0773,töitä,work
+0774,kokeilla,try out
+0775,suhteen,regarding
+0776,aion,I will
+0777,on että,it is that
+0778,pikku,little
+0779,asuu,live
+0780,minä en,I don't
+0781,tyytyväinen,pleased
+0782,kerralla,at once
+0783,muuttaa,change
 0784,lapsen,child
-0785,iho,skin
-0786,museon,museum
-0787,välttämättä,necessarily
+0785,aloin,I started
+0786,siskon,sister
+0787,lasten,junior
 0788,eteen,in front of
-0789,kerralla,at once
-0790,haluaisin,I would like
-0791,töitä,work
-0792,lasten,junior
-0793,kesä,summer
-0794,esiin,out
-0795,ylös,up
-0796,upea,magnificent
-0797,jäädä,stay
-0798,jos on,If there is
-0799,ainoastaan,only
-0800,esillä,at issue
-0801,valita,choose
-0802,ensimmäistä,first
+0789,iho,skin
+0790,museon,museum
+0791,välttämättä,necessarily
+0792,esiin,out
+0793,haluaisin,I would like
+0794,jos on,If there is
+0795,kesä,summer
+0796,ylös,up
+0797,upea,magnificent
+0798,jäädä,stay
+0799,eikö,not
+0800,ainoastaan,only
+0801,kestää,take
+0802,esillä,at issue
 0803,tavallista,ordinary
 0804,että jos,that if
-0805,murun,murmur
-0806,eikö,not
-0807,minuuttia,minutes
-0808,kestää,take
+0805,valita,choose
+0806,tahansa,any
+0807,ensimmäistä,first
+0808,itsekin,another
 0809,oikea,right
-0810,jättää,leave
-0811,äidin,maternal
-0812,vuoteen,in the year
-0813,saisi,should
-0814,valmis,ready
-0815,tahansa,any
-0816,joka ei,who does not
-0817,kannata,booze
-0818,luin,read
-0819,sanoi että,said
-0820,kesken,between
-0821,itsekin,another
-0822,toisella,in the other
-0823,netistä,online
+0810,vuoteen,in the year
+0811,murun,murmur
+0812,saisi,should
+0813,minuuttia,minutes
+0814,kannata,booze
+0815,jättää,leave
+0816,äidin,maternal
+0817,valmis,ready
+0818,kesken,between
+0819,toisella,in the other
+0820,sanoi että,said
+0821,joka ei,who does not
+0822,kaikkien,all
+0823,luin,read
 0824,katsomaan,to look at
-0825,vaikeaa,it is difficult to
-0826,vähintään,at least
-0827,kaikkien,all
-0828,kukkia,flower
-0829,musta,black
-0830,vähitellen,gradually
-0831,kaikesta,from everything
-0832,tykkää,likes
-0833,kirjaa,record
-0834,ole koskaan,have never
-0835,halusin,I wanted
-0836,syömään,to eat
-0837,suru,grief
-0838,helsingissä,in Helsinki
-0839,kahvila,coffee shop
-0840,tuttu,known
-0841,on yksi,is one
-0842,olemaan,be
-0843,kohtaan,towards
-0844,jostain,somewhere
-0845,halunnut,desired
-0846,hoitaa,manage
-0847,naiset,ladies
-0848,avulla,through
-0849,kivaa,nice
-0850,syytä,reason
-0851,kauniita,beautiful
-0852,sisään,in
-0853,ku,ku
-0854,sanotaan,will be said
+0825,vähintään,at least
+0826,netistä,online
+0827,vaikeaa,it is difficult to
+0828,musta,black
+0829,kohtaan,towards
+0830,kukkia,flower
+0831,hoitaa,manage
+0832,vähitellen,gradually
+0833,kaikesta,from everything
+0834,tykkää,likes
+0835,kirjaa,record
+0836,ole koskaan,have never
+0837,olemaan,be
+0838,halusin,I wanted
+0839,syömään,to eat
+0840,suru,grief
+0841,helsingissä,in Helsinki
+0842,kahvila,coffee shop
+0843,tuttu,known
+0844,on yksi,is one
+0845,jostain,somewhere
+0846,halunnut,desired
+0847,sisään,in
+0848,kivaa,nice
+0849,naiset,ladies
+0850,ku,ku
+0851,avulla,through
+0852,muu,other
+0853,syytä,reason
+0854,kauniita,beautiful
 0855,ei saa,must not
-0856,keski,medium
-0857,saattavat,may
-0858,takaa,from behind
+0856,oo,oh
+0857,joo,Yeah
+0858,sanotaan,will be said
 0859,asioista,things
-0860,muu,other
-0861,sydän,heart
-0862,ihoa,skin
-0863,huomenna,tomorrow
-0864,sopivan,appropriate
-0865,kertoi,told
-0866,kuulemma,reportedly
-0867,kyseessä,at issue
-0868,stressi,stress
-0869,kuvaa,picture
-0870,pysty,upright
-0871,kuusi,six
-0872,joo,Yeah
-0873,joulu,Christmas
-0874,toivon,I hope
-0875,vas,left
-0876,en voi,I can't
-0877,katsoa,look
-0878,uskon,I believe
-0879,tarkoitus,purpose
-0880,kun se,when it
-0881,tehdään,do
-0882,lapset,issue
-0883,miettiä,think about
-0884,hetki,moment
-0885,oo,oh
-0886,tyttö,girl
-0887,sopivasti,suitably
-0888,näytti,showed
-0889,että ei,that not
-0890,kokemus,experience
+0860,keski,medium
+0861,saattavat,may
+0862,takaa,from behind
+0863,sydän,heart
+0864,ihoa,skin
+0865,pysty,upright
+0866,huomenna,tomorrow
+0867,kuulemma,reportedly
+0868,kyseessä,at issue
+0869,stressi,stress
+0870,kuvaa,picture
+0871,sopivan,appropriate
+0872,tehdään,do
+0873,kertoi,told
+0874,kun se,when it
+0875,katsoa,look
+0876,kuusi,six
+0877,joulu,Christmas
+0878,toivon,I hope
+0879,vas,left
+0880,en voi,I can't
+0881,miettiä,think about
+0882,uskon,I believe
+0883,lapset,issue
+0884,tarkoitus,purpose
+0885,että ei,that not
+0886,tietoa,knowledge of
+0887,hetki,moment
+0888,rahaa,money
+0889,näytti,showed
+0890,tää,this
 0891,jaksa,will
-0892,iloa,joy
-0893,tietoa,knowledge of
+0892,tyttö,girl
+0893,sopivasti,suitably
 0894,harvoin,rarely
-0895,talo,house
-0896,tykkäsin,I liked
-0897,viikonloppuna,on the weekend
+0895,kokemus,experience
+0896,iloa,joy
+0897,jatkaa,continue
 0898,vanhat,old
-0899,terveys kuvat,Health Photos
-0900,työn,work
-0901,tää,this
-0902,tulisi,should
-0903,itseäni,myself
-0904,että tämä,that
-0905,jatkaa,continue
-0906,kuukautta,month
-0907,viikonloppua,weekend
-0908,mökin,cottage
-0909,lähti,Lahti
-0910,paikalla,on the spot
-0911,kunnossa,okay
-0912,huomaa,note
-0913,kirjoja,books
-0914,johtaa,lead
-0915,ihania,lovely
+0899,talo,house
+0900,että tämä,that
+0901,työn,work
+0902,itseäni,myself
+0903,tykkäsin,I liked
+0904,viikonloppuna,on the weekend
+0905,terveys kuvat,Health Photos
+0906,tulisi,should
+0907,kuukautta,month
+0908,lähti,Lahti
+0909,kunnossa,okay
+0910,ollu,have been
+0911,viikonloppua,weekend
+0912,mökin,cottage
+0913,johtaa,lead
+0914,työ,work
+0915,paikalla,on the spot
 0916,eihän,after all
-0917,kahvia,coffee
-0918,äitini,my mother
-0919,prosenttia,percentage
-0920,näen,I see
-0921,viimeinen,last
-0922,ollu,have been
-0923,ensimmäisenä,foremost
-0924,rahaa,money
-0925,ja olen,and I am
-0926,eivät ole,are not
-0927,ukin kanssa,with UK
-0928,työ,work
-0929,hidas,slow
-0930,paikassa,in a place
-0931,elämästä,from life
-0932,yön,night
-0933,käyttänyt,used
-0934,päivittäin,daily
-0935,aivojen,cerebral
-0936,koti,home
-0937,ja kun,and when
-0938,ajatuksia,thoughts
-0939,puolen,side
-0940,yritän,i will try
-0941,tietty,certain
-0942,pitkästä,from long
-0943,mökille,to the cottage
-0944,nyt kun,now
-0945,ja se on,and it's
-0946,jatkuvasti,continually
-0947,menin,I went
-0948,taitaa,know
-0949,mahdollisimman,as
-0950,tuoksu,scent
-0951,tuntuu että,feels like
-0952,vuodesta,from
-0953,uuteen,new
-0954,taustalla,in the background
-0955,joilla,on
-0956,eipä,no
-0957,iltana,in the evening
-0958,ja hän,and he
-0959,saakka,until
-0960,toiselle,to another
+0917,huomaa,note
+0918,kirjoja,books
+0919,ihania,lovely
+0920,ensimmäisenä,foremost
+0921,kahvia,coffee
+0922,äitini,my mother
+0923,ja olen,and I am
+0924,eivät ole,are not
+0925,prosenttia,percentage
+0926,näen,I see
+0927,paikassa,in a place
+0928,taitaa,know
+0929,viimeinen,last
+0930,päivittäin,daily
+0931,tietty,certain
+0932,koti,home
+0933,ukin kanssa,with UK
+0934,hidas,slow
+0935,ajatuksia,thoughts
+0936,puolen,side
+0937,elämästä,from life
+0938,yön,night
+0939,käyttänyt,used
+0940,aivojen,cerebral
+0941,ja kun,and when
+0942,nyt kun,now
+0943,jatkuvasti,continually
+0944,menin,I went
+0945,yritän,i will try
+0946,pitkästä,from long
+0947,vuodessa,per year
+0948,mökille,to the cottage
+0949,ja hän,and he
+0950,ja se on,and it's
+0951,vuodesta,from
+0952,eipä,no
+0953,näiden,these
+0954,mahdollisimman,as
+0955,uuteen,new
+0956,tuoksu,scent
+0957,tuntuu että,feels like
+0958,muistaa,remember
+0959,iltana,in the evening
+0960,taustalla,in the background
 0961,mene,go
-0962,näiden,these
+0962,joilla,on
 0963,perhe,family
-0964,vuodessa,per year
-0965,jotka ovat,who are
-0966,on vähän,is a little bit
-0967,seurata,follow
-0968,lopussa,at the end
-0969,ikään,age
-0970,kaupungin,town's
-0971,kehon,body
-0972,uudet,new
-0973,taakse,behind
-0974,mulla on,I have
-0975,ymmärtää,understand
-0976,erityisen,particularly
-0977,paikan,place
-0978,irti,loose
-0979,elämäni,my life
-0980,rakennus,building
-0981,oli myös,was also
-0982,isäni,my father
-0983,työtä,work
-0984,saavat,get
-0985,nuori,young
-0986,valmiiksi,ready
-0987,isän,paternal
-0988,vuodelta,from year to year
-0989,joitakin,some
-0990,siinä on,there is
-0991,yhtäkkiä,suddenly
-0992,tarvitaan,required
-0993,hyvät,good
-0994,johonkin,somewhere
-0995,ison,big
-0996,kauniisti,nicely
+0964,uudet,new
+0965,on vähän,is a little bit
+0966,mulla on,I have
+0967,saakka,until
+0968,toiselle,to another
+0969,lopussa,at the end
+0970,ikään,age
+0971,taakse,behind
+0972,jotka ovat,who are
+0973,ymmärtää,understand
+0974,nuori,young
+0975,seurata,follow
+0976,paikan,place
+0977,kaupungin,town's
+0978,kehon,body
+0979,työtä,work
+0980,erityisen,particularly
+0981,asiasta,on the matter
+0982,valmiiksi,ready
+0983,irti,loose
+0984,elämäni,my life
+0985,rakennus,building
+0986,ilta,evening
+0987,oli myös,was also
+0988,isäni,my father
+0989,saavat,get
+0990,hyvät,good
+0991,johonkin,somewhere
+0992,isän,paternal
+0993,hyvältä,good
+0994,vuodelta,from year to year
+0995,joitakin,some
+0996,siinä on,there is
 0997,silloin kun,when
-0998,kunnon,good
-0999,asiasta,on the matter
-1000,muistaa,remember
+0998,yhtäkkiä,suddenly
+0999,tarvitaan,required
+1000,kova,hard

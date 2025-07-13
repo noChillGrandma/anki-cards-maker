@@ -78,69 +78,82 @@ def get_tatoeba_examples(finnish_word: str, max_examples: int = 10) -> str:
         return f"[Error: {str(e)[:50]}]"
 
 def load_existing_examples(csv_file: str) -> List[Tuple[str, str, str, str]]:
-    """Load from basic CSV first, then merge in existing examples"""
+    """Load from basic CSV first, then merge in existing examples by position"""
     basic_file = "finnish_english_translations_google.csv"
     
-    # Start with the current basic CSV as the source of truth
-    all_words = []
-    word_check = []  # Debug: track what words we're loading
+    # Load current basic CSV as source of truth
+    current_words = {}  # position -> (number, finnish, english)
     try:
         with open(basic_file, 'r', encoding='utf-8') as f:
             reader = csv.reader(f)
             next(reader, None)  # Skip header
             for row in reader:
                 if len(row) >= 3:
-                    # Start with empty examples for all words
-                    all_words.append((row[0], row[1], row[2], ""))
-                    word_check.append(f"{row[0]}: {row[1]}")
+                    position = row[0]
+                    current_words[position] = (row[0], row[1], row[2])
         
-        print(f"Loaded {len(all_words)} words from current basic CSV: {basic_file}")
-        
-        # Debug: Show first 10 and last 10 words loaded
-        print("First 10 words from CSV:", word_check[:10])
-        print("Last 10 words from CSV:", word_check[-10:])
-        
-        # Debug: Check if problematic words are in the CSV
-        problem_words = ["vera", "dl", "esim", "veran"]
-        found_problems = [word for word in word_check if any(prob in word.lower() for prob in problem_words)]
-        if found_problems:
-            print(f"WARNING: Found problematic words in CSV: {found_problems}")
+        print(f"Loaded {len(current_words)} words from current basic CSV: {basic_file}")
+        print(f"Last word in current CSV: {list(current_words.values())[-1]}")
         
     except FileNotFoundError:
         print(f"Error: {basic_file} not found!")
         return []
     
-    # Now try to load existing examples and merge them in
-    existing_examples = {}
+    # Load existing examples by position
+    old_examples = {}  # position -> (number, finnish, english, examples)
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
             reader = csv.reader(f)
-            header = next(reader, None)  # Read header
-            
-            if header and len(header) >= 4:
-                for row in reader:
-                    if len(row) >= 4:
-                        number = row[0]
-                        existing_examples[number] = row[3]  # Just store the examples
-                print(f"Loaded {len(existing_examples)} existing examples from {csv_file}")
+            next(reader, None)  # Skip header
+            for row in reader:
+                if len(row) >= 4:
+                    position = row[0]
+                    old_examples[position] = (row[0], row[1], row[2], row[3])
+        
+        print(f"Loaded {len(old_examples)} words from existing examples: {csv_file}")
+        if old_examples:
+            print(f"Last word in examples CSV: {list(old_examples.values())[-1]}")
+        
     except FileNotFoundError:
         print(f"No existing examples file found: {csv_file}")
     
-    # Merge existing examples into the current word list
+    # Build final list by comparing position by position
     final_words = []
     preserved_count = 0
-    for number, finnish, english, _ in all_words:
-        if number in existing_examples and existing_examples[number].strip() and not existing_examples[number].startswith("["):
-            # Use existing examples if available and valid
-            final_words.append((number, finnish, english, existing_examples[number]))
-            preserved_count += 1
-            print(f"Preserved examples for word {number}: {finnish}")
-        else:
-            # Keep empty examples for new/missing words
-            final_words.append((number, finnish, english, ""))
-            print(f"New word {number}: {finnish} (needs examples)")
+    changed_count = 0
     
-    print(f"Final result: {len(final_words)} words, {preserved_count} with preserved examples")
+    for position in sorted(current_words.keys(), key=int):
+        current_number, current_finnish, current_english = current_words[position]
+        
+        if position in old_examples:
+            old_number, old_finnish, old_english, old_examples_text = old_examples[position]
+            
+            # Same word in same position with good examples? Keep them
+            if (current_finnish == old_finnish and 
+                old_examples_text.strip() and 
+                not old_examples_text.startswith("[")):
+                final_words.append((current_number, current_finnish, current_english, old_examples_text))
+                preserved_count += 1
+                print(f"✅ Position {position}: '{current_finnish}' - preserved examples")
+            else:
+                # Different word or bad examples? Reset and get new examples
+                final_words.append((current_number, current_finnish, current_english, ""))
+                changed_count += 1
+                if current_finnish != old_finnish:
+                    print(f"🔄 Position {position}: '{old_finnish}' → '{current_finnish}' - needs new examples")
+                else:
+                    print(f"🔄 Position {position}: '{current_finnish}' - bad examples, needs new ones")
+        else:
+            # New position, needs examples
+            final_words.append((current_number, current_finnish, current_english, ""))
+            changed_count += 1
+            print(f"🆕 Position {position}: '{current_finnish}' - new word, needs examples")
+    
+    print(f"\nSummary:")
+    print(f"✅ Preserved: {preserved_count} words")
+    print(f"🔄 Changed/New: {changed_count} words")
+    print(f"📝 Total: {len(final_words)} words")
+    
     return final_words
 
 def merge_with_full_csv(existing_examples: dict) -> List[Tuple[str, str, str, str]]:

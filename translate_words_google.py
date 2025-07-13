@@ -22,7 +22,7 @@ def load_existing_translations(csv_file: str) -> dict:
             
             for row in csv_reader:
                 if len(row) >= 3:
-                    number, finnish, english = row[0], row[1], row[2]
+                    _, finnish, english = row[0], row[1], row[2]
                     # Store both by number and by finnish word for flexibility
                     existing[finnish.strip()] = english.strip()
                     
@@ -103,7 +103,7 @@ def translate_words_batch(words: List[Tuple[str, str]], existing_translations: d
             preserved_translations += 1
         else:
             # Only translate if no existing translation
-            print(f"  -> Translating new word...")
+            print("  -> Translating new word...")
             
             # Try translation with retry logic
             english_translation = None

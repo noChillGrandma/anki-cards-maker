@@ -7,9 +7,8 @@ def backup_words_file():
     """Create a backup of the current word analysis file"""
     source_file = "top_finnish_words.txt"
     
-    # Create backup filename with timestamp
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_file = f"top_finnish_words_old.txt"
+    # Create backup filename
+    backup_file = "top_finnish_words_old.txt"
     
     try:
         # Check if source file exists

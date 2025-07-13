@@ -39,3 +39,6 @@ y
 z
 lähteet kuvat
 tl
+vera
+veran
+dl

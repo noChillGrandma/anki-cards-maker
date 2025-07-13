@@ -9,9 +9,10 @@ import genanki
 import csv
 import hashlib
 
+VERSION = '1.0.2'  # Version for output file naming
 INPUT_FILE = 'finnish_english_with_examples.csv'   # CSV with examples
 BATCH_SIZE = 200  # Number of words per batch
-OUTPUT_FILE = 'finnish_words_master_with_examples.apkg'  # Enhanced output file
+OUTPUT_FILE = f'anki_deck/top_1k_finnish_words_v{VERSION}.apkg'  # Enhanced output file
 
 def generate_note_id(finnish_word):
     """Generate a stable note ID based on the Finnish word"""
@@ -36,7 +37,7 @@ model = genanki.Model(
             <hr>
             <div class="card back">
                 <div class="translation">🇬🇧 {{English}}</div>
-                <div class="examples">� {{Examples}}</div>
+                <div class="examples">{{Examples}}</div>
             </div>'''
         },
     ],
@@ -86,7 +87,7 @@ model = genanki.Model(
 def create_new_deck(batch_num):
     return genanki.Deck(
         2059400110 + batch_num,
-        f'Finnish Words Enhanced::Batch {batch_num} (Words {(batch_num-1)*BATCH_SIZE + 1}-{batch_num*BATCH_SIZE})'
+        f'Top 1000 Finnish Words::Batch {batch_num} (Words {(batch_num-1)*BATCH_SIZE + 1}-{batch_num*BATCH_SIZE})'
     )
 
 def main():

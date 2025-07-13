@@ -78,30 +78,73 @@ def get_tatoeba_examples(finnish_word: str, max_examples: int = 10) -> str:
         return f"[Error: {str(e)[:50]}]"
 
 def load_existing_examples(csv_file: str) -> List[Tuple[str, str, str, str]]:
-    """Load existing data including examples if file exists, then merge with full basic CSV"""
-    existing_examples = {}
+    """Load from basic CSV first, then merge in existing examples"""
+    basic_file = "finnish_english_translations_google.csv"
     
-    # First, try to load existing examples
+    # Start with the current basic CSV as the source of truth
+    all_words = []
+    word_check = []  # Debug: track what words we're loading
+    try:
+        with open(basic_file, 'r', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            next(reader, None)  # Skip header
+            for row in reader:
+                if len(row) >= 3:
+                    # Start with empty examples for all words
+                    all_words.append((row[0], row[1], row[2], ""))
+                    word_check.append(f"{row[0]}: {row[1]}")
+        
+        print(f"Loaded {len(all_words)} words from current basic CSV: {basic_file}")
+        
+        # Debug: Show first 10 and last 10 words loaded
+        print("First 10 words from CSV:", word_check[:10])
+        print("Last 10 words from CSV:", word_check[-10:])
+        
+        # Debug: Check if problematic words are in the CSV
+        problem_words = ["vera", "dl", "esim", "veran"]
+        found_problems = [word for word in word_check if any(prob in word.lower() for prob in problem_words)]
+        if found_problems:
+            print(f"WARNING: Found problematic words in CSV: {found_problems}")
+        
+    except FileNotFoundError:
+        print(f"Error: {basic_file} not found!")
+        return []
+    
+    # Now try to load existing examples and merge them in
+    existing_examples = {}
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
             reader = csv.reader(f)
             header = next(reader, None)  # Read header
             
-            # Check if this is the examples file (has 4 columns)
             if header and len(header) >= 4:
                 for row in reader:
                     if len(row) >= 4:
                         number = row[0]
-                        existing_examples[number] = (row[0], row[1], row[2], row[3])
+                        existing_examples[number] = row[3]  # Just store the examples
                 print(f"Loaded {len(existing_examples)} existing examples from {csv_file}")
     except FileNotFoundError:
         print(f"No existing examples file found: {csv_file}")
     
-    # Now load the full basic CSV and merge with existing examples
-    return merge_with_full_csv(existing_examples)
+    # Merge existing examples into the current word list
+    final_words = []
+    preserved_count = 0
+    for number, finnish, english, _ in all_words:
+        if number in existing_examples and existing_examples[number].strip() and not existing_examples[number].startswith("["):
+            # Use existing examples if available and valid
+            final_words.append((number, finnish, english, existing_examples[number]))
+            preserved_count += 1
+            print(f"Preserved examples for word {number}: {finnish}")
+        else:
+            # Keep empty examples for new/missing words
+            final_words.append((number, finnish, english, ""))
+            print(f"New word {number}: {finnish} (needs examples)")
+    
+    print(f"Final result: {len(final_words)} words, {preserved_count} with preserved examples")
+    return final_words
 
 def merge_with_full_csv(existing_examples: dict) -> List[Tuple[str, str, str, str]]:
-    """Merge existing examples with full basic CSV"""
+    """Merge existing examples with full basic CSV - ONLY include words that exist in basic CSV"""
     basic_file = "finnish_english_translations_google.csv"
     all_words = []
     
@@ -113,13 +156,21 @@ def merge_with_full_csv(existing_examples: dict) -> List[Tuple[str, str, str, st
                 if len(row) >= 3:
                     number = row[0]
                     if number in existing_examples:
-                        # Use existing examples
+                        # Use existing examples ONLY if the word still exists in basic CSV
                         all_words.append(existing_examples[number])
+                        print(f"Preserved examples for word {number}: {row[1]}")
                     else:
                         # Add empty examples field for new words
                         all_words.append((row[0], row[1], row[2], ""))
+                        print(f"New word {number}: {row[1]} (needs examples)")
         
-        print(f"Merged with full CSV: {len(all_words)} total words")
+        print(f"Merged with current CSV: {len(all_words)} total words")
+        
+        # Show which old words were removed
+        removed_words = set(existing_examples.keys()) - set(word[0] for word in all_words)
+        if removed_words:
+            print(f"Removed {len(removed_words)} words that are no longer in basic CSV: {sorted(removed_words)}")
+        
         return all_words
         
     except FileNotFoundError:

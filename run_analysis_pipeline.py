@@ -52,17 +52,26 @@ def main():
             "description": "Step 1: Cleaning and processing text input"
         },
         {
-            "command": "python backup_words_file.py",
-            "description": "Step 2: Backing up previous word analysis"
+            "command": "python scripts\\backup_words_file.py",
+            "description": "Step 2: Backing up previous top words list..."
         },
         {
             "command": "python scripts\\word_phrase_frequency.py",
             "description": "Step 3: Analyzing word and phrase frequencies"
         },
         {
-            "command": "python compare_ranks.py top_finnish_words_old.txt top_finnish_words.txt -o diff.txt",
-            "description": "Step 4: Comparing current analysis with previous results"
-        }
+            "command": "python scripts\\compare_ranks.py top_finnish_words_old.txt top_finnish_words.txt -o diff.txt",
+            "description": "Step 4: Comparing new to list with old list..."
+        },
+        {
+            "command": "python scripts\\translate_words_google.py",
+            "description": "Step 5: Translating new words..."
+        },
+        {
+            "command": "python scripts\\tatoeba_examples.py",
+            "description": "Step 6: Extracting examples for new words from Tatoeba..."
+        },
+        
     ]
     
     # Track success/failure

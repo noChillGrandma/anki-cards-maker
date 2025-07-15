@@ -9,7 +9,7 @@ import genanki
 import csv
 import hashlib
 
-VERSION = '1.0.2'  # Version for output file naming
+VERSION = '1.0.3'  # Version for output file naming
 INPUT_FILE = 'finnish_english_with_examples.csv'   # CSV with examples
 BATCH_SIZE = 200  # Number of words per batch
 OUTPUT_FILE = f'anki_deck/top_1k_finnish_words_v{VERSION}.apkg'  # Enhanced output file

@@ -94,6 +94,7 @@ def main():
     # Check if enhanced CSV exists, fallback to basic CSV
     try:
         with open(INPUT_FILE, 'r', encoding='utf-8'):
+            # File exists, do nothing here
             pass
     except FileNotFoundError:
         print(f"Enhanced CSV not found: {INPUT_FILE}")

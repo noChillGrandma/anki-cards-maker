@@ -140,7 +140,7 @@
     "ovat": {
         "phrase_word_count": 1,
         "frequency_count": 4374,
-        "english_translation": "are",
+        "english_translation": "they are",
         "examples": "He ovat?\nThey are?\n\nMilloin vaalit ovat?\nWhen do the elections take place?\n\nHe ovat neulanteräviä.\nThey are as sharp as needles.\n\nOvatko ne amerikkalaisia?\nAre they American?\n\nNe ovat ulkomaalaisia.\nThey're foreigners.\n\nHe ovat ulkomaalaisia.\nThey're foreigners.\n\nIhmisapinat ovat älykkäitä.\nApes are intelligent.\n\nLeopardit ovat petoeläimiä.\nLeopards are predators.\n\nKäteni ovat puhtaat.\nMy hands are clean.\n\nKukat ovat kuihtuneet.\nThe flowers have wilted."
     },
     "sitä": {
@@ -6008,7 +6008,7 @@
     "tuota": {
         "phrase_word_count": 1,
         "frequency_count": 195,
-        "english_translation": "",
-        "examples": ""
+        "english_translation": "that (partitive of tuo); um/er… (hesitation)",
+        "examples": "Näytä tuota kuvaa.\nShow that picture.\n\nTuota… en muista hänen nimeään.\nUm… I don’t remember his name.\n\nTarvitsen tuota työkalua.\nI need that tool.\n\nTuota kirjaa ei ole enää saatavilla.\nThat book is no longer available.\n\nVoisitko ojentaa tuota kynää?\nCould you pass that pen?\n\nTuota elokuvaa suosittelen lämpimästi.\nI warmly recommend that movie.\n\nEn tykkää tuota makua.\nI don’t like that taste.\n\nTuota katua pitkin kävelimme eilen.\nWe walked along that street yesterday.\n\nKuinka tuota sanotaan englanniksi?\nHow do you say that in English?\n\nTuota… ehkä parempi odottaa.\nEr… maybe it’s better to wait."
     }
 }
